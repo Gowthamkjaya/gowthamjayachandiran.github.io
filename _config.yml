@@ -1,6 +1,70 @@
+# Site settings
+title: Gowtham K Jayachandiran
+subtitle: Data Scientist & GenAI Specialist
+description: Senior Data Scientist & BI Expert with 10+ years of experience in analytics, GenAI solutions, and business intelligence transformations, based in Dubai.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+locale: en_US
+
+# Theme settings
 theme: minima
-title: Gowtham K Jayachandiran - Resume
-description: Data Scientist & BI Specialist based in Dubai
+minima:
+  skin: classic
+  social_links:
+    linkedin: gowtham-kumari
+    github: 
+    email: gowthamkiaya@gmail.com
+    phone: +971501741840
+
+# Author information
+author:
+  name: Gowtham K Jayachandiran
+  location: Dubai, UAE
+  avatar: "/assets/images/profile-icon.png"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+excerpt_separator: <!--more-->
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  experiences:
+    output: true
+    sort_by: date
+  skills:
+    output: false
+  certifications:
+    output: false
+
+# HTML compression
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+
+# Sass settings
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache/
+  - .jekyll-cache/
+  - .git/
+  - .github/
