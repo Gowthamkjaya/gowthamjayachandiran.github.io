@@ -1,5 +1,6 @@
-title: Gowtham K Jayachandiran
-logo: /img/gow.png
-description: Data Scientist & Business Intelligence Specialist
-show_downloads: true
-theme: jekyll-theme-minimal
+theme: minima
+title: Gowtham K Jayachandiran - Resume
+description: Data Scientist & BI Specialist based in Dubai
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
