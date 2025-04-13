@@ -1,0 +1,133 @@
+/* General Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f9f9f9;
+}
+
+h1, h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+}
+
+/* Contact Info */
+.contact-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 20px;
+  border: 2px solid #3498db;
+}
+
+.contact-info p {
+  font-size: 1.1em;
+}
+
+.contact-info i {
+  color: #3498db;
+  margin-right: 8px;
+}
+
+/* Section Icons */
+.section-icon {
+  margin-bottom: 10px;
+}
+
+.small-icon {
+  width: 30px;
+  height: 30px;
+}
+
+/* Skill Tags and Cert Badges */
+.skill-tag, .cert-badge {
+  display: inline-block;
+  background: #3498db;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;
+  margin: 2px;
+  font-size: 0.9em;
+  transition: transform 0.2s;
+}
+
+.skill-tag:hover, .cert-badge:hover {
+  transform: scale(1.1);
+}
+
+/* Tech Stack */
+.tech-stack {
+  font-style: italic;
+  color: #7f8c8d;
+  margin-bottom: 10px;
+}
+
+/* Animations */
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+}
+
+.bounceIn {
+  animation-name: bounceIn;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes bounceIn {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-20px); }
+  60% { transform: translateY(-10px); }
+}
+
+/* Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table th, table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table th {
+  background: #3498db;
+  color: white;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #7f8c8d;
+}
+
+footer i {
+  margin-right: 5px;
+}
+
+/* Hover Effects */
+a:hover {
+  color: #e74c3c;
+  text-decoration: underline;
+}
