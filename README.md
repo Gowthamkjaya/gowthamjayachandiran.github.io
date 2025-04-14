@@ -1,16 +1,24 @@
+---
+layout: default
+title: Gowtham K Jayachandiran - Data Scientist & BI Specialist
+description: Data Scientist & BI Specialist with 10+ years in analytics, GenAI, and BI, based in Dubai.
+---
+
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 <div class="header">
   <h1>Gowtham K Jayachandiran</h1>
   <div class="contact-info">
-    <img src="/assets/images/profile-icon.png" alt="Profile Icon" class="profile-icon animated fadeIn">
+    <img src="/assets/images/profile-icon.png" alt="Profile Icon" class="profile-icon">
     <div class="contact-details">
-      <p><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</p>
-      <p><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></p>
-      <p><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a></p>
-      <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a></p>
-      <p><i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></p>
+      <p>
+        <i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE |
+        <i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a> |
+        <i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a> |
+        <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a> |
+        <i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a>
+      </p>
     </div>
   </div>
 </div>
@@ -20,7 +28,7 @@
 ## Executive Summary
 
 <div class="section-icon">
-  <img src="/assets/images/summary-icon.png" alt="Summary Icon" class="small-icon animated bounceIn">
+  <img src="/assets/images/summary-icon.png" alt="Summary Icon" class="small-icon">
 </div>
 
 Data Scientist and BI Specialist with **10+ years** delivering **high-impact analytics** and **GenAI solutions**. Key achievements:
@@ -44,7 +52,7 @@ Data Scientist and BI Specialist with **10+ years** delivering **high-impact ana
 ## Technical Skills
 
 <div class="section-icon">
-  <img src="/assets/images/skills-icon.png" alt="Skills Icon" class="small-icon animated bounceIn">
+  <img src="/assets/images/skills-icon.png" alt="Skills Icon" class="small-icon">
 </div>
 
 <div class="skills-grid">
@@ -88,7 +96,7 @@ Data Scientist and BI Specialist with **10+ years** delivering **high-impact ana
 ## Portfolio
 
 <div class="section-icon">
-  <img src="/assets/images/portfolio-icon.png" alt="Portfolio Icon" class="small-icon animated bounceIn">
+  <img src="/assets/images/portfolio-icon.png" alt="Portfolio Icon" class="small-icon">
 </div>
 
 Explore my work in **data science**, **business intelligence**, and **GenAI**:
@@ -106,7 +114,7 @@ Showcasing **data analytics** and **BI** projects:
 
 ### Certifications
 <a href="https://www.credly.com/users/gowtham-jayachandiran" target="_blank">
-  <img src="/assets/images/certifications-badge.png" alt="Certifications Badge" class="cert-image animated fadeIn">
+  <img src="/assets/images/certifications-badge.png" alt="Certifications Badge" class="cert-image">
 </a>
 
 Verified credentials on **Credly**:
@@ -131,7 +139,7 @@ Verified credentials on **Credly**:
 ## Professional Experience
 
 <div class="section-icon">
-  <img src="/assets/images/experience-icon.png" alt="Experience Icon" class="small-icon animated bounceIn">
+  <img src="/assets/images/experience-icon.png" alt="Experience Icon" class="small-icon">
 </div>
 
 ### Cisco — Data Scientist
@@ -176,7 +184,7 @@ Verified credentials on **Credly**:
 ## Education
 
 <div class="section-icon">
-  <img src="/assets/images/education-icon.png" alt="Education Icon" class="small-icon animated bounceIn">
+  <img src="/assets/images/education-icon.png" alt="Education Icon" class="small-icon">
 </div>
 
 - **Master of Technology** (7.8 CGPA)  
@@ -189,7 +197,7 @@ Verified credentials on **Credly**:
 ## Certifications
 
 <div class="section-icon">
-  <img src="/assets/images/certification-icon.png" alt="Certification Icon" class="small-icon animated bounceIn">
+  <img src="/assets/images/certification-icon.png" alt="Certification Icon" class="small-icon">
 </div>
 
 - <i class="fas fa-certificate"></i> **Microsoft Certified: Power BI Data Analyst Associate**
