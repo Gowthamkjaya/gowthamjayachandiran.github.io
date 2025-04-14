@@ -1,9 +1,3 @@
----
-layout: default
-title: Gowtham K Jayachandiran - Data Scientist & BI Specialist
-description: Data Scientist & BI Specialist with 10+ years of experience in analytics, GenAI, and business intelligence, based in Dubai.
----
-
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
