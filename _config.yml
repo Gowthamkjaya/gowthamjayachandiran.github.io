@@ -1,6 +1,7 @@
-theme: minima
-# title: Gowtham K Jayachandiran - Resume
-# description: Data Scientist & BI Specialist based in Dubai
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
+title: Gowtham K Jayachandiran - Resume
+description: Data Scientist & BI Specialist with 10+ years in analytics, GenAI, and BI, based in Dubai
 plugins:
-- jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+show_downloads: false
