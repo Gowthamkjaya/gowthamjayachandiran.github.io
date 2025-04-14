@@ -23,7 +23,7 @@
   <img src="/assets/images/summary-icon.png" alt="Summary Icon" class="small-icon animated bounceIn">
 </div>
 
-Data Scientist and BI Specialist with **10+ years** delivering **high-impact analytics** and **GenAI solutions** for global enterprises. Key achievements:
+Data Scientist and BI Specialist with **10+ years** delivering **high-impact analytics** and **GenAI solutions**. Key achievements:
 
 - <i class="fas fa-check-circle"></i> Boosted **data accuracy** by **15%** on **500GB+** financial data using **Python**, **Azure**, **Power BI**.
 - <i class="fas fa-robot"></i> Deployed **GenAI AI Assistant** with **Llama** & **GPT-3**, increasing **Tableau adoption** by **15%+** (**300+ users** in 1 month).
@@ -91,7 +91,7 @@ Data Scientist and BI Specialist with **10+ years** delivering **high-impact ana
   <img src="/assets/images/portfolio-icon.png" alt="Portfolio Icon" class="small-icon animated bounceIn">
 </div>
 
-Explore my work in **data science**, **business intelligence**, and **GenAI** through the following:
+Explore my work in **data science**, **business intelligence**, and **GenAI**:
 
 ### YouTube Videos
 Showcasing **data analytics** and **BI** projects:
