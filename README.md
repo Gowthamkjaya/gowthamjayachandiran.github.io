@@ -114,7 +114,7 @@ Excel at designing **Dynamic Dashboards**,**ML/AI Model Development & Deployment
 
 At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
 
-- <i class="fas fa-check-circle"></i> Developed **35+ Power BI** & **Tableau** dashboards, improving sales KPIs by **15%**, adopted by **3,000+ stakeholders** across Nomura & Cisco.
+- <i class="fas fa-check-circle"></i> Developed **35+ Power BI** & **Tableau** dashboards, improving usage by **15%**, adopted by **3,000+ stakeholders** across Nomura & Cisco.
 - <i class="fas fa-robot"></i> Optimized **SQL queries** on **Snowflake**, reducing analytics runtime by **80%**, from 5 minutes to 45 seconds, enhancing decision-making.
 - <i class="fas fa-dollar-sign"></i> Drove **$700K+** in pipeline opportunities via **ML-based customer segmentation**, delivering **78+ cross-sell** insights at Cisco.
 - <i class="fas fa-chart-line"></i> Delivered **C-suite** PowerPoint presentations, aligning **market trends** and sales insights for **10%** revenue growth across regions.
@@ -265,46 +265,46 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 <div class="competencies-grid">
   <div class="competency-item">
-    <i class="fas fa-brain"></i> **AI/ML Model Development & Deployment**
+    <i class="fas fa-brain"></i> AI/ML Model Development & Deployment
   </div>
   <div class="competency-item">
-    <i class="fas fa-chart-line"></i> **Commercial Analytics**
+    <i class="fas fa-chart-line"></i> Commercial Analytics
   </div>
   <div class="competency-item">
-    <i class="fas fa-shield-alt"></i> **Compliance & Security**
+    <i class="fas fa-shield-alt"></i> Compliance & Security
   </div>
   <div class="competency-item">
-    <i class="fas fa-users"></i> **Cross-Functional Leadership**
+    <i class="fas fa-users"></i> Cross-Functional Leadership
   </div>
   <div class="competency-item">
-    <i class="fas fa-chart-bar"></i> **Data Analysis & Visualization**
+    <i class="fas fa-chart-bar"></i> Data Analysis & Visualization
   </div>
   <div class="competency-item">
-    <i class="fas fa-check-circle"></i> **Data Integrity & Standardization**
+    <i class="fas fa-check-circle"></i> Data Integrity & Standardization
   </div>
   <div class="competency-item">
-    <i class="fas fa-database"></i> **Data Pipeline Architecture & ETL Integration**
+    <i class="fas fa-database"></i> Data Pipeline Architecture & ETL Integration
   </div>
   <div class="competency-item">
-    <i class="fas fa-digital-tachograph"></i> **Digital Transformation**
+    <i class="fas fa-digital-tachograph"></i> Digital Transformation
   </div>
   <div class="competency-item">
-    <i class="fas fa-tasks"></i> **Project Management**
+    <i class="fas fa-tasks"></i> Project Management
   </div>
   <div class="competency-item">
-    <i class="fas fa-shopping-cart"></i> **Retail Analytics & Customer Experience**
+    <i class="fas fa-shopping-cart"></i> Retail Analytics & Customer Experience
   </div>
   <div class="competency-item">
-    <i class="fas fa-lightbulb"></i> **Sales Insights & Analytics**
+    <i class="fas fa-lightbulb"></i> Sales Insights & Analytics
   </div>
   <div class="competency-item">
-    <i class="fas fa-comment-dots"></i> **Storytelling with Data**
+    <i class="fas fa-comment-dots"></i> Storytelling with Data
   </div>
   <div class="competency-item">
-    <i class="fas fa-arrow-trend-up"></i> **Strategic Growth**
+    <i class="fas fa-arrow-trend-up"></i> Strategic Growth
   </div>
   <div class="competency-item">
-    <i class="fas fa-user-tie"></i> **Team Leadership & Mentorship**
+    <i class="fas fa-user-tie"></i> Team Leadership & Mentorship
   </div>
 </div>
 
@@ -365,60 +365,58 @@ Showcasing **data analytics** and **BI** projects:
 #### Apr 2023 – Present | Bengaluru, India
 <div class="tech-stack">Snowflake, Streamlit, Python, Tableau, Power BI, Salesforce CRM Analytics, Azure</div>
 
-<i class="fas fa-robot"></i> Lead **3 direct reports**, developing **AI/ML** pipelines and a **GenAI Assistant** using **Llama** and **GPT-4 Turbo**, boosting **Tableau dashboard** adoption by **15%+** for **300+** users in one month.
-
-<i class="fas fa-users-cog"></i> Built **customer segmentation** models on **telemetry data**, delivering **78+ cross-sell** opportunities, adding **$700K** to the pipeline for sales effectiveness.
-
-<i class="fas fa-chart-bar"></i> Architected interactive **Power BI** dashboards, adopted by **14 executives** for quarterly reviews, enhancing sales **KPI tracking** and strategic alignment.
+          <i class="fas fa-robot"></i> Lead **3 direct reports**, developing **AI/ML** pipelines and a **GenAI Assistant** using **Llama** and **GPT-4 Turbo**, boosting **Tableau dashboard** adoption by **15%+** for **300+** users in one month.
+          
+          <i class="fas fa-users-cog"></i> Built **customer segmentation** models on **telemetry data**, delivering **78+ cross-sell** opportunities, adding **$700K** to the pipeline for sales effectiveness.
+          
+          <i class="fas fa-chart-bar"></i> Architected interactive **Power BI** dashboards, adopted by **14 executives** for quarterly reviews, enhancing sales **KPI tracking** and strategic alignment.
 
 ### <i class="fas fa-landmark"></i> Nomura — Assistant Vice President, Business Intelligence
 #### Jul 2021 – Feb 2023 | Bengaluru, India
 <div class="tech-stack">SQL, Snowflake, Python, Power BI, Tableau, Alteryx, Azure</div>
 
-<i class="fas fa-dollar-sign"></i> Directed a **RAD team** of **7 BI analysts**, delivering **35+ Power BI**, **Tableau**, and **Alteryx** dashboards to track trader performance, improving sales metrics by **15%** for **3,000+** stakeholders.
-
-<i class="fas fa-tachometer-alt"></i> Optimized SQL queries on **Snowflake**, reducing trade **PnL analytics** runtime by **80%**, from **5 minutes to 45 seconds**, enabling real-time insights.
-
-<i class="fas fa-chalkboard-teacher"></i> Presented data-driven market insights to **C-suite**, driving **10%** revenue growth through strategic recommendations.
+          <i class="fas fa-dollar-sign"></i> Directed a **RAD team** of **7 BI analysts**, delivering **35+ Power BI**, **Tableau**, and **Alteryx** dashboards to track trader performance, improving sales metrics by **15%** for **3,000+** stakeholders.
+          
+          <i class="fas fa-tachometer-alt"></i> Optimized SQL queries on **Snowflake**, reducing trade **PnL analytics** runtime by **80%**, from **5 minutes to 45 seconds**, enabling real-time insights.
+          
+          <i class="fas fa-chalkboard-teacher"></i> Presented data-driven market insights to **C-suite**, driving **10%** revenue growth through strategic recommendations.
 
 ### <i class="fas fa-university"></i> State Street — Data Scientist, Global CoE
 #### Apr 2019 – Jul 2021 | Bengaluru, India
 <div class="tech-stack">SQL, Essbase, AWS, Snowflake, Tableau, Python, Excel</div>
 
-<i class="fas fa-file-alt"></i> Developed **Client PnL** dashboards using **Essbase**, **AWS**, and **Snowflake**, improving financial reporting accuracy for sales and **compliance stakeholders**.
-
-<i class="fas fa-cogs"></i> Built **predictive segmentation** models on **ICAMS** data, resolving **18%** of **operational issues**, optimizing sales processes.
-
-<i class="fas fa-users"></i> Collaborated with cross-functional teams to integrate **data pipelines**, **automating reporting** workflows for decision-making efficiency.
+        <i class="fas fa-file-alt"></i> Developed **Client PnL** dashboards using **Essbase**, **AWS**, and **Snowflake**, improving financial reporting accuracy for sales and **compliance stakeholders**.
+        
+        <i class="fas fa-cogs"></i> Built **predictive segmentation** models on **ICAMS** data, resolving **18%** of **operational issues**, optimizing sales processes.
+        
+        <i class="fas fa-users"></i> Collaborated with cross-functional teams to integrate **data pipelines**, **automating reporting** workflows for decision-making efficiency.
 
 ### <i class="fas fa-chart-pie"></i> Kantar Group (Analytics Quotient) — Business Analyst
 #### Sep 2018 – Mar 2019 | Bengaluru, India
 <div class="tech-stack">Tableau, SQL, Excel, Power BI, Python</div>
 
-<i class="fas fa-chart-line"></i> Created **3 interactive Tableau dashboards**, enhancing retail **sales insights** and **stakeholder communication** for strategic decision-making.
-
-<i class="fas fa-shield-alt"></i> Standardized **GDPR/CCPA-compliant** reports, achieving **0%** project failure rate through rigorous **data integrity** protocols.
-
-<i class="fas fa-search"></i> Conducted **risk assessments**, delivering data-driven recommendations to **optimize retail** analytics processes.
+        <i class="fas fa-chart-line"></i> Created **3 interactive Tableau dashboards**, enhancing retail **sales insights** and **stakeholder communication** for strategic decision-making.
+        
+        <i class="fas fa-shield-alt"></i> Standardized **GDPR/CCPA-compliant** reports, achieving **0%** project failure rate through rigorous **data integrity** protocols.
+        
+        <i class="fas fa-search"></i> Conducted **risk assessments**, delivering data-driven recommendations to **optimize retail** analytics processes.
 
 ### <i class="fas fa-search-dollar"></i> Search2Hired Online Services — Business Analyst
 #### Apr 2015 – Aug 2018 | Bengaluru, India
 <div class="tech-stack">SQL, Excel, Python, Tableau, Power Query</div>
 
-<i class="fas fa-file-excel"></i> Delivered **50+ quarterly dashboards** and reports with **0% error rate**, driving **95% client renewal rates** in e-commerce and finance sectors.
-
-<i class="fas fa-users"></i> Collaborated with **cross-functional** teams to develop **data-driven** sales tools, optimizing business processes and **customer insights**.
-
-<i class="fas fa-clock"></i> Automated reporting workflows using **Excel** and **SQL**, saving **20 hours** weekly for stakeholder teams.
+          <i class="fas fa-file-excel"></i> Delivered **50+ quarterly dashboards** and reports with **0% error rate**, driving **95% client renewal rates** in e-commerce and finance sectors.
+          
+          <i class="fas fa-users"></i> Collaborated with **cross-functional** teams to develop **data-driven** sales tools, optimizing business processes and **customer insights**.
+          
+          <i class="fas fa-clock"></i> Automated reporting workflows using **Excel** and **SQL**, saving **20 hours** weekly for stakeholder teams.
 
 ---
 
 ## 🎓 Education
 
-- **Master of Technology** (7.8 CGPA)
-  Anna University, Chennai, India | 2013–2015
-- **Bachelor of Technology** (7.3 CGPA)  
-  Anna University, Chennai, India | 2009–2013
+**Master of Technology** (7.8 CGPA) | Anna University, Chennai, India | 2013–15
+**Bachelor of Technology** (7.3 CGPA) | Anna University, Chennai, India | 2009–13
 
 ---
 
