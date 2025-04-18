@@ -4,7 +4,7 @@
 <div class="header">
   <div class="header-container">
     <div class="profile-image">
-      <img src="asste/images/profile_" alt="Gowtham K Jayachandiran" />
+      <img src="asste/Gowtham - Professional Pic.jpg" alt="Gowtham K Jayachandiran" />
     </div>
     <div class="header-content">
       <h1>Gowtham K Jayachandiran</h1>
