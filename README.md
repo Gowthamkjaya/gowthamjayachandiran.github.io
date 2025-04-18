@@ -154,7 +154,7 @@ Showcasing **data analytics** and **BI** projects:
 
 
 ## 💼 Professional Experience
-### Cisco — Data Scientist & BI Specialist, Global Office of Analytics
+### <i class="fas fa-network-wired"></i> Cisco — Data Scientist & BI Specialist, Global Office of Analytics
 #### Apr 2023 – Present | Bengaluru, India
 <div class="tech-stack">Snowflake, Streamlit, Python, Tableau, Power BI, Salesforce CRM Analytics, Azure</div>
 
@@ -164,7 +164,7 @@ Showcasing **data analytics** and **BI** projects:
 
 <i class="fas fa-chart-bar"></i> Architected interactive **Power BI** dashboards, adopted by **14 executives** for quarterly reviews, enhancing sales **KPI tracking** and strategic alignment.
 
-### Nomura — Assistant Vice President, Business Intelligence
+### <i class="fas fa-landmark"></i> Nomura — Assistant Vice President, Business Intelligence
 #### Jul 2021 – Feb 2023 | Bengaluru, India
 <div class="tech-stack">SQL, Snowflake, Python, Power BI, Tableau, Alteryx, Azure</div>
 
@@ -174,7 +174,7 @@ Showcasing **data analytics** and **BI** projects:
 
 <i class="fas fa-chalkboard-teacher"></i> Presented data-driven market insights to **C-suite**, driving **10%** revenue growth through strategic recommendations.
 
-### State Street — Data Scientist, Global CoE
+### <i class="fas fa-university"></i> State Street — Data Scientist, Global CoE
 #### Apr 2019 – Jul 2021 | Bengaluru, India
 <div class="tech-stack">SQL, Essbase, AWS, Snowflake, Tableau, Python, Excel</div>
 
@@ -184,7 +184,7 @@ Showcasing **data analytics** and **BI** projects:
 
 <i class="fas fa-users"></i> Collaborated with cross-functional teams to integrate **data pipelines**, **automating reporting** workflows for decision-making efficiency.
 
-### Kantar Group (Analytics Quotient) — Business Analyst
+### <i class="fas fa-chart-pie"></i> Kantar Group (Analytics Quotient) — Business Analyst
 #### Sep 2018 – Mar 2019 | Bengaluru, India
 <div class="tech-stack">Tableau, SQL, Excel, Power BI, Python</div>
 
@@ -194,7 +194,7 @@ Showcasing **data analytics** and **BI** projects:
 
 <i class="fas fa-search"></i> Conducted **risk assessments**, delivering data-driven recommendations to **optimize retail** analytics processes.
 
-### Search2Hired Online Services — Business Analyst
+### <i class="fas fa-search-dollar"></i> Search2Hired Online Services — Business Analyst
 #### Apr 2015 – Aug 2018 | Bengaluru, India
 <div class="tech-stack">SQL, Excel, Python, Tableau, Power Query</div>
 
