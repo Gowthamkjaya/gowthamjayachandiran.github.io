@@ -6,11 +6,7 @@
   <div class="contact-info">
     <div class="contact-details">
       <p>
-        <i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE | 
-        <i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a> | 
-        <i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a> | 
-        <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a> | 
-        <i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a>
+        <i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE |  <i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a> |  <i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a>  |  <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a>  | <i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a>
       </p>
     </div>
   </div>
@@ -20,7 +16,9 @@
 
 ## ✨ Executive Summary
 
-**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail**, and **Technology sectors**. Excel at designing **dynamic dashboards**, **optimizing data pipelines**, and **leading cross-functional** teams to align with global business objectives. 
+**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail**, and **Technology sectors**. 
+
+Excel at designing **Dynamic Dashboards**,**ML/AI Model Development & Deployment** **Optimizing Data Pipelines**, and **Leading Cross-Functional** teams to align with global business objectives. 
 
 At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
 
