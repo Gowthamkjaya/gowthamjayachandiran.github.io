@@ -4,13 +4,65 @@
 <div class="header">
   <h1>Gowtham K Jayachandiran</h1>
   <div class="contact-info">
-    <div class="contact-details">
-      <p>
-        <i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE |  <i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a> |  <i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a>  |  <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a>  | <i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a>
-      </p>
-    </div>
+    <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
+    <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
+    <div class="contact-item"><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a></div>
+    <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a></div>
+    <div class="contact-item"><i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></div>
   </div>
 </div>
+
+<style>
+.header {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.header h1 {
+  margin-bottom: 12px;
+  color: #0066cc;
+  font-size: 2.5rem;
+}
+
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 8px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  font-size: 0.95rem;
+}
+
+.contact-item i {
+  color: #0066cc;
+  margin-right: 6px;
+  font-size: 1rem;
+}
+
+.contact-item a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.contact-item a:hover {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .contact-info {
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+}
+</style>
 
 ---
 
@@ -43,53 +95,129 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 <div class="skills-grid">
   <div class="skill-category">
     <h3><i class="fas fa-chart-pie"></i> BI Tools</h3>
-    <span class="skill-tag">Power BI Desktop, Power BI Online</span>
-    <span class="skill-tag">Tableau Desktop, Tableau Server, Tableau Public</span>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fas fa-chart-bar"></i> Power BI Desktop</span>
+      <span class="skill-tag"><i class="fas fa-globe"></i> Power BI Online</span>
+      <span class="skill-tag"><i class="fas fa-desktop"></i> Tableau Desktop</span>
+      <span class="skill-tag"><i class="fas fa-server"></i> Tableau Server</span>
+      <span class="skill-tag"><i class="fas fa-share-alt"></i> Tableau Public</span>
+    </div>
   </div>
+  
   <div class="skill-category">
     <h3><i class="fas fa-database"></i> ETL Tools</h3>
-    <span class="skill-tag">Alteryx Designer</span>
-    <span class="skill-tag">Power Query Editor</span>
-    <span class="skill-tag">Tableau Prep</span>
-    <span class="skill-tag">SSIS</span>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fas fa-cogs"></i> Alteryx Designer</span>
+      <span class="skill-tag"><i class="fas fa-filter"></i> Power Query Editor</span>
+      <span class="skill-tag"><i class="fas fa-clipboard-check"></i> Tableau Prep</span>
+      <span class="skill-tag"><i class="fas fa-exchange-alt"></i> SSIS</span>
+    </div>
   </div>
+  
   <div class="skill-category">
     <h3><i class="fas fa-code"></i> Programming</h3>
-    <span class="skill-tag">Advanced Python</span>
-    <span class="skill-tag">PyTorch</span>
-    <span class="skill-tag">Scikit-Learn</span>
-    <span class="skill-tag">LangChain</span>
-    <span class="skill-tag">Llama</span>
-    <span class="skill-tag">Streamlit</span>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fab fa-python"></i> Advanced Python</span>
+      <span class="skill-tag"><i class="fas fa-fire"></i> PyTorch</span>
+      <span class="skill-tag"><i class="fas fa-brain"></i> Scikit-Learn</span>
+      <span class="skill-tag"><i class="fas fa-link"></i> LangChain</span>
+      <span class="skill-tag"><i class="fas fa-comment-alt"></i> Llama</span>
+      <span class="skill-tag"><i class="fas fa-stream"></i> Streamlit</span>
+    </div>
   </div>
+  
   <div class="skill-category">
-    <h3><i class="fas fa-cloud"></i> Databases</h3>
-    <span class="skill-tag">MySQL</span>
-    <span class="skill-tag">Snowflake</span>
-    <span class="skill-tag">T-SQL</span>
+    <h3><i class="fas fa-database"></i> Databases</h3>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fas fa-database"></i> MySQL</span>
+      <span class="skill-tag"><i class="fas fa-snowflake"></i> Snowflake</span>
+      <span class="skill-tag"><i class="fas fa-code"></i> T-SQL</span>
+    </div>
   </div>
+  
   <div class="skill-category">
-    <h3><i class="fas fa-cloud-upload-alt"></i> Cloud</h3>
-    <span class="skill-tag">Azure Data Factory</span>
-    <span class="skill-tag">Denodo</span>
-    <span class="skill-tag">Vertex AI</span>
+    <h3><i class="fas fa-cloud"></i> Cloud</h3>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fab fa-microsoft"></i> Azure Data Factory</span>
+      <span class="skill-tag"><i class="fas fa-project-diagram"></i> Denodo</span>
+      <span class="skill-tag"><i class="fab fa-google"></i> Vertex AI</span>
+    </div>
   </div>
-    <div class="skill-category">
-    <h3><i class="fas fa-cloud-upload-alt"></i> AI/ML Tools</h3>
-    <span class="skill-tag">Azure Machine Learning Studio</span>
-    <span class="skill-tag">Snowflake Cortex AI</span>
-    <span class="skill-tag">HuggingFace Transformers - LLM</span>
+  
+  <div class="skill-category">
+    <h3><i class="fas fa-robot"></i> AI/ML Tools</h3>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fab fa-microsoft"></i> Azure Machine Learning Studio</span>
+      <span class="skill-tag"><i class="fas fa-snowflake"></i> Snowflake Cortex AI</span>
+      <span class="skill-tag"><i class="fas fa-comment-dots"></i> HuggingFace Transformers - LLM</span>
+    </div>
   </div>
+  
   <div class="skill-category">
     <h3><i class="fas fa-tools"></i> Other</h3>
-    <span class="skill-tag">Docker</span>
-    <span class="skill-tag">JIRA</span>
-    <span class="skill-tag">Microsoft Excel</span>
-    <span class="skill-tag">Microsoft PowerPoint</span>
-    <span class="skill-tag">SharePoint Web Pages</span>
-    <span class="skill-tag">Confluence</span>
+    <div class="skill-tags">
+      <span class="skill-tag"><i class="fab fa-docker"></i> Docker</span>
+      <span class="skill-tag"><i class="fab fa-jira"></i> JIRA</span>
+      <span class="skill-tag"><i class="fas fa-file-excel"></i> Microsoft Excel</span>
+      <span class="skill-tag"><i class="fas fa-file-powerpoint"></i> Microsoft PowerPoint</span>
+      <span class="skill-tag"><i class="fas fa-sitemap"></i> SharePoint Web Pages</span>
+      <span class="skill-tag"><i class="fab fa-confluence"></i> Confluence</span>
+    </div>
   </div>
 </div>
+
+<style>
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.skill-category {
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.skill-category h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 1.1rem;
+  color: #333;
+  border-bottom: 2px solid #0066cc;
+  padding-bottom: 6px;
+}
+
+.skill-category h3 i {
+  color: #0066cc;
+  margin-right: 8px;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.skill-tag {
+  background-color: #e9ecef;
+  border-radius: 4px;
+  padding: 5px 10px;
+  font-size: 0.85rem;
+  color: #495057;
+  display: inline-flex;
+  align-items: center;
+  border-left: 3px solid #0066cc;
+}
+
+.skill-tag i {
+  color: #0066cc;
+  margin-right: 6px;
+  font-size: 0.85rem;
+}
+</style>
 
 ---
 
