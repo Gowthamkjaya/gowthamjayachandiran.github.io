@@ -305,14 +305,7 @@ Showcasing **data analytics** and **BI** projects:
   Explaining **Python**-based customer segmentation, inspired by **$700K pipeline** success.  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
 
-### Certifications
-<a href="https://www.credly.com/users/gowtham-jayachandiran" target="_blank">
-
-  Verified credentials on **Credly**:
-- **Microsoft Certified: Power BI Data Analyst Associate**
-- **Tableau Desktop Specialist**
-- **Alteryx Designer Core Certification**
-- **Microsoft Office Specialist – Excel Expert**
+---
 
 ### External Links
 - <i class="fas fa-laptop-code"></i> **[Streamlit Portfolio]**  
@@ -326,8 +319,6 @@ Showcasing **data analytics** and **BI** projects:
   [medium.com/@gowthamkiaya](https://medium.com/@gowthamkiaya)
 
 ---
-
-
 
 ## 💼 Professional Experience
 ### <i class="fas fa-network-wired"></i> Cisco — Data Scientist & BI Specialist, Global Office of Analytics
@@ -392,11 +383,61 @@ Showcasing **data analytics** and **BI** projects:
 ---
 
 ## 🏅 Certifications
+<div class="certifications-container">
+  <div class="certification-item">
+    <i class="fab fa-microsoft"></i> <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/" target="_blank">**Microsoft Certified: Power BI Data Analyst Associate**</a>
+  </div>
+  
+  <div class="certification-item">
+    <i class="fas fa-chart-bar"></i> <a href="https://www.tableau.com/learn/certification/desktop-specialist" target="_blank">**Tableau Desktop Specialist**</a>
+  </div>
+  
+  <div class="certification-item">
+    <i class="fas fa-cogs"></i> <a href="https://www.alteryx.com/designer-core" target="_blank">**Alteryx Designer Core Certification**</a>
+  </div>
+  
+  <div class="certification-item">
+    <i class="fas fa-file-excel"></i> <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-excel-expert-2019/" target="_blank">**Microsoft Office Specialist – Excel Expert**</a>
+  </div>
+</div>
 
-- <i class="fas fa-certificate"></i> **Microsoft Certified: Power BI Data Analyst Associate**
-- <i class="fas fa-certificate"></i> **Tableau Desktop Specialist**
-- <i class="fas fa-certificate"></i> **Alteryx Designer Core Certification**
-- <i class="fas fa-certificate"></i> **Microsoft Office Specialist – Excel Expert**
+<style>
+.certifications-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.certification-item {
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  padding: 12px 15px;
+  border-left: 3px solid #159957;
+  display: flex;
+  align-items: center;
+}
+
+.certification-item i {
+  color: #159957;
+  margin-right: 10px;
+  font-size: 1.2rem;
+  width: 24px;
+  text-align: center;
+}
+
+.certification-item a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.certification-item a:hover {
+  color: #159957;
+  text-decoration: underline;
+}
+</style>
 
 ---
 
