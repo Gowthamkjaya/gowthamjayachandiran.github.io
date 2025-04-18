@@ -39,7 +39,7 @@
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid #0066cc;
+  border: 3px solid #159957;
 }
 
 .header-content {
@@ -48,7 +48,7 @@
 
 .header h1 {
   margin-bottom: 12px;
-  color: #0066cc;
+  color: #159957;
   font-size: 2.3rem;
   margin-top: 0;
 }
@@ -67,7 +67,7 @@
 }
 
 .contact-item i {
-  color: #0066cc;
+  color: #159957;
   margin-right: 6px;
   font-size: 1rem;
 }
@@ -79,7 +79,7 @@
 }
 
 .contact-item a:hover {
-  color: #0066cc;
+  color: #159957;
   text-decoration: underline;
 }
 
