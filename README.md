@@ -95,22 +95,72 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 ---
 
-### Core Competencies
+## 🧠 Core Competencies
 
-- **AI/ML Model Development & Deployment**
-- **Commercial Analytics**
-- **Compliance & Security**
-- **Cross-Functional Leadership**
-- **Data Analysis & Visualization**
-- **Data Integrity & Standardization**
-- **Data Pipeline Architecture & ETL Integration**
-- **Digital Transformation**
-- **Project Management**
-- **Retail Analytics & Customer Experience**
-- **Sales Insights & Analytics**
-- **Storytelling with Data**
-- **Strategic Growth**
-- **Team Leadership & Mentorship**
+<div class="competencies-grid">
+  <div class="competency-item">
+    <i class="fas fa-brain"></i> **AI/ML Model Development & Deployment**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-chart-line"></i> **Commercial Analytics**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-shield-alt"></i> **Compliance & Security**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-users"></i> **Cross-Functional Leadership**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-chart-bar"></i> **Data Analysis & Visualization**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-check-circle"></i> **Data Integrity & Standardization**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-database"></i> **Data Pipeline Architecture & ETL Integration**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-digital-tachograph"></i> **Digital Transformation**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-tasks"></i> **Project Management**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-shopping-cart"></i> **Retail Analytics & Customer Experience**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-lightbulb"></i> **Sales Insights & Analytics**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-comment-dots"></i> **Storytelling with Data**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-arrow-trend-up"></i> **Strategic Growth**
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-user-tie"></i> **Team Leadership & Mentorship**
+  </div>
+</div>
+
+<style>
+.competencies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px;
+}
+.competency-item {
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  border-left: 3px solid #0066cc;
+}
+.competency-item i {
+  color: #0066cc;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+</style>
 
 ---
 
@@ -208,7 +258,7 @@ Showcasing **data analytics** and **BI** projects:
 
 ## 🎓 Education
 
-- **Master of Technology** (7.8 CGPA with Distinction)
+- **Master of Technology** (7.8 CGPA)
   Anna University, Chennai, India | 2013–2015
 - **Bachelor of Technology** (7.3 CGPA)  
   Anna University, Chennai, India | 2009–2013
