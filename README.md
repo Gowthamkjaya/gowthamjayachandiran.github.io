@@ -383,62 +383,121 @@ Showcasing **data analytics** and **BI** projects:
 ---
 
 ## 🏅 Certifications
+
 <div class="certifications-container">
-  <div class="certification-item">
-    <i class="fab fa-microsoft"></i> <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/" target="_blank">**Microsoft Certified: Power BI Data Analyst Associate**</a>
-  </div>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fab fa-microsoft"></i></div>
+    <div class="cert-details">
+      <h3>Microsoft Certified</h3>
+      <p>Power BI Data Analyst Associate</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
   
-  <div class="certification-item">
-    <i class="fas fa-chart-bar"></i> <a href="https://www.tableau.com/learn/certification/desktop-specialist" target="_blank">**Tableau Desktop Specialist**</a>
-  </div>
+  <a href="https://www.tableau.com/learn/certification/desktop-specialist" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-chart-bar"></i></div>
+    <div class="cert-details">
+      <h3>Tableau</h3>
+      <p>Desktop Specialist</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
   
-  <div class="certification-item">
-    <i class="fas fa-cogs"></i> <a href="https://www.alteryx.com/designer-core" target="_blank">**Alteryx Designer Core Certification**</a>
-  </div>
+  <a href="https://www.alteryx.com/designer-core" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-cogs"></i></div>
+    <div class="cert-details">
+      <h3>Alteryx</h3>
+      <p>Designer Core Certification</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
   
-  <div class="certification-item">
-    <i class="fas fa-file-excel"></i> <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-excel-expert-2019/" target="_blank">**Microsoft Office Specialist – Excel Expert**</a>
-  </div>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-excel-expert-2019/" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
+    <div class="cert-details">
+      <h3>Microsoft Office Specialist</h3>
+      <p>Excel Expert</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
 </div>
 
 <style>
 .certifications-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 15px;
-  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 15px;
+  justify-content: center;
 }
 
-.certification-item {
-  background-color: #f8f9fa;
-  border-radius: 6px;
-  padding: 12px 15px;
-  border-left: 3px solid #159957;
+.certification-card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  padding: 0;
+  width: 280px;
   display: flex;
   align-items: center;
-}
-
-.certification-item i {
-  color: #159957;
-  margin-right: 10px;
-  font-size: 1.2rem;
-  width: 24px;
-  text-align: center;
-}
-
-.certification-item a {
-  color: #333;
   text-decoration: none;
-  font-weight: 500;
-  transition: color 0.2s;
+  color: #333;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 1px solid #e0e0e0;
 }
 
-.certification-item a:hover {
+.certification-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+}
+
+.cert-icon {
+  background-color: #159957;
+  color: white;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cert-icon i {
+  font-size: 24px;
+}
+
+.cert-details {
+  padding: 15px;
+  flex-grow: 1;
+}
+
+.cert-details h3 {
+  margin: 0;
+  font-size: 16px;
   color: #159957;
-  text-decoration: underline;
+}
+
+.cert-details p {
+  margin: 5px 0 0;
+  font-size: 14px;
+}
+
+.cert-arrow {
+  padding-right: 15px;
+  color: #159957;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.certification-card:hover .cert-arrow {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .certification-card {
+    width: 100%;
+  }
 }
 </style>
-
 ---
 
 <footer>
