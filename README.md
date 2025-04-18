@@ -154,13 +154,14 @@ Showcasing **data analytics** and **BI** projects:
 
 
 ## 💼 Professional Experience
-
 ### Cisco — Data Scientist & BI Specialist, Global Office of Analytics
 #### Apr 2023 – Present | Bengaluru, India
 <div class="tech-stack">Snowflake, Streamlit, Python, Tableau, Power BI, Salesforce CRM Analytics, Azure</div>
 
-<i class="fas fa-robot"></i> Lead **3 direct reports**, developing **AI/ML** pipelines and a **GenAI Assistant** using **Llama** and **GPT-3.0 Turbo**, boosting **Tableau dashboard** adoption by **15%+** for **300+** users in one month.
+<i class="fas fa-robot"></i> Lead **3 direct reports**, developing **AI/ML** pipelines and a **GenAI Assistant** using **Llama** and **GPT-4 Turbo**, boosting **Tableau dashboard** adoption by **15%+** for **300+** users in one month.
+
 <i class="fas fa-users-cog"></i> Built **customer segmentation** models on **telemetry data**, delivering **78+ cross-sell** opportunities, adding **$700K** to the pipeline for sales effectiveness.
+
 <i class="fas fa-chart-bar"></i> Architected interactive **Power BI** dashboards, adopted by **14 executives** for quarterly reviews, enhancing sales **KPI tracking** and strategic alignment.
 
 ### Nomura — Assistant Vice President, Business Intelligence
@@ -168,7 +169,9 @@ Showcasing **data analytics** and **BI** projects:
 <div class="tech-stack">SQL, Snowflake, Python, Power BI, Tableau, Alteryx, Azure</div>
 
 <i class="fas fa-dollar-sign"></i> Directed a **RAD team** of **7 BI analysts**, delivering **35+ Power BI**, **Tableau**, and **Alteryx** dashboards to track trader performance, improving sales metrics by **15%** for **3,000+** stakeholders.
+
 <i class="fas fa-tachometer-alt"></i> Optimized SQL queries on **Snowflake**, reducing trade **PnL analytics** runtime by **80%**, from **5 minutes to 45 seconds**, enabling real-time insights.
+
 <i class="fas fa-chalkboard-teacher"></i> Presented data-driven market insights to **C-suite**, driving **10%** revenue growth through strategic recommendations.
 
 ### State Street — Data Scientist, Global CoE
@@ -176,7 +179,9 @@ Showcasing **data analytics** and **BI** projects:
 <div class="tech-stack">SQL, Essbase, AWS, Snowflake, Tableau, Python, Excel</div>
 
 <i class="fas fa-file-alt"></i> Developed **Client PnL** dashboards using **Essbase**, **AWS**, and **Snowflake**, improving financial reporting accuracy for sales and **compliance stakeholders**.
+
 <i class="fas fa-cogs"></i> Built **predictive segmentation** models on **ICAMS** data, resolving **18%** of **operational issues**, optimizing sales processes.
+
 <i class="fas fa-users"></i> Collaborated with cross-functional teams to integrate **data pipelines**, **automating reporting** workflows for decision-making efficiency.
 
 ### Kantar Group (Analytics Quotient) — Business Analyst
@@ -184,7 +189,9 @@ Showcasing **data analytics** and **BI** projects:
 <div class="tech-stack">Tableau, SQL, Excel, Power BI, Python</div>
 
 <i class="fas fa-chart-line"></i> Created **3 interactive Tableau dashboards**, enhancing retail **sales insights** and **stakeholder communication** for strategic decision-making.
+
 <i class="fas fa-shield-alt"></i> Standardized **GDPR/CCPA-compliant** reports, achieving **0%** project failure rate through rigorous **data integrity** protocols.
+
 <i class="fas fa-search"></i> Conducted **risk assessments**, delivering data-driven recommendations to **optimize retail** analytics processes.
 
 ### Search2Hired Online Services — Business Analyst
@@ -192,7 +199,9 @@ Showcasing **data analytics** and **BI** projects:
 <div class="tech-stack">SQL, Excel, Python, Tableau, Power Query</div>
 
 <i class="fas fa-file-excel"></i> Delivered **50+ quarterly dashboards** and reports with **0% error rate**, driving **95% client renewal rates** in e-commerce and finance sectors.
+
 <i class="fas fa-users"></i> Collaborated with **cross-functional** teams to develop **data-driven** sales tools, optimizing business processes and **customer insights**.
+
 <i class="fas fa-clock"></i> Automated reporting workflows using **Excel** and **SQL**, saving **20 hours** weekly for stakeholder teams.
 
 ---
