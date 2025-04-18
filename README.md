@@ -4,7 +4,7 @@
 <div class="header">
   <div class="header-container">
     <div class="profile-image">
-      <img src="assets/Gowtham_Professional_Pic.jpg" alt="Gowtham K Jayachandiran" />
+      <img src="assets/Professional_Pic.jpg" alt="Gowtham K Jayachandiran" />
     </div>
     <div class="header-content">
       <h1>Gowtham K Jayachandiran</h1>
