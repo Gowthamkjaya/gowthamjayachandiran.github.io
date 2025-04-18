@@ -2,34 +2,62 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 <div class="header">
-  <h1>Gowtham K Jayachandiran</h1>
-  <div class="contact-info">
-    <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
-    <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
-    <div class="contact-item"><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a></div>
-    <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a></div>
-    <div class="contact-item"><i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></div>
+  <div class="header-container">
+    <div class="profile-image">
+      <img src="asste/images/profile_" alt="Gowtham K Jayachandiran" />
+    </div>
+    <div class="header-content">
+      <h1>Gowtham K Jayachandiran</h1>
+      <div class="contact-info">
+        <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
+        <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
+        <div class="contact-item"><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a></div>
+        <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a></div>
+        <div class="contact-item"><i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></div>
+      </div>
+    </div>
   </div>
 </div>
 
 <style>
 .header {
-  margin-bottom: 20px;
-  text-align: center;
+  margin-bottom: 30px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.profile-image {
+  flex-shrink: 0;
+}
+
+.profile-image img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #0066cc;
+}
+
+.header-content {
+  flex-grow: 1;
 }
 
 .header h1 {
   margin-bottom: 12px;
-  color: #159957;
-  font-size: 2.5rem;
+  color: #0066cc;
+  font-size: 2.3rem;
+  margin-top: 0;
 }
 
 .contact-info {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   gap: 15px;
-  margin-top: 8px;
+  margin-top: 12px;
 }
 
 .contact-item {
@@ -39,7 +67,7 @@
 }
 
 .contact-item i {
-  color: #159957;
+  color: #0066cc;
   margin-right: 6px;
   font-size: 1rem;
 }
@@ -51,15 +79,27 @@
 }
 
 .contact-item a:hover {
-  color: #159957;
+  color: #0066cc;
   text-decoration: underline;
 }
 
 @media (max-width: 768px) {
-  .contact-info {
+  .header-container {
     flex-direction: column;
-    align-items: center;
-    gap: 8px;
+    text-align: center;
+    gap: 15px;
+  }
+  
+  .contact-info {
+    justify-content: center;
+  }
+  
+  @media (max-width: 576px) {
+    .contact-info {
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
   }
 }
 </style>
