@@ -20,7 +20,7 @@
 
 .header h1 {
   margin-bottom: 12px;
-  color: #0066cc;
+  color: #159957;
   font-size: 2.5rem;
 }
 
@@ -39,7 +39,7 @@
 }
 
 .contact-item i {
-  color: #0066cc;
+  color: #159957;
   margin-right: 6px;
   font-size: 1rem;
 }
@@ -51,7 +51,7 @@
 }
 
 .contact-item a:hover {
-  color: #0066cc;
+  color: #159957;
   text-decoration: underline;
 }
 
@@ -186,12 +186,12 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   margin-bottom: 12px;
   font-size: 1.1rem;
   color: #333;
-  border-bottom: 2px solid #0066cc;
+  border-bottom: 2px solid #159957;
   padding-bottom: 6px;
 }
 
 .skill-category h3 i {
-  color: #0066cc;
+  color: #159957;
   margin-right: 8px;
 }
 
@@ -209,11 +209,11 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   color: #495057;
   display: inline-flex;
   align-items: center;
-  border-left: 3px solid #0066cc;
+  border-left: 3px solid #159957;
 }
 
 .skill-tag i {
-  color: #0066cc;
+  color: #159957;
   margin-right: 6px;
   font-size: 0.85rem;
 }
@@ -278,10 +278,10 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   padding: 8px 12px;
   border-radius: 4px;
   background-color: #f8f9fa;
-  border-left: 3px solid #0066cc;
+  border-left: 3px solid #159957;
 }
 .competency-item i {
-  color: #0066cc;
+  color: #159957;
   width: 20px;
   text-align: center;
   margin-right: 8px;
