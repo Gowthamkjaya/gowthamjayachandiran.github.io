@@ -20,14 +20,16 @@
 
 ## ✨ Executive Summary
 
-Data Scientist and BI Specialist with **10+ years** delivering **high-impact analytics** and **GenAI solutions**. Key achievements:
+**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail**, and **Technology sectors**. Excel at designing **dynamic dashboards**, **optimizing data pipelines**, and **leading cross-functional** teams to align with global business objectives. 
 
-- <i class="fas fa-check-circle"></i> Boosted **data accuracy** by **15%** on **500GB+** financial data using **Python**, **Azure**, **Power BI**.
-- <i class="fas fa-robot"></i> Deployed **GenAI AI Assistant** with **Llama**, **LangChain** & **GPT-3**, increasing **Tableau adoption** by **15%+** (**300+ users** in 1 month).
-- <i class="fas fa-dollar-sign"></i> Drove **$700K+** pipeline via **ML customer segmentation**.
-- <i class="fas fa-chart-line"></i> Built **100+ BI dashboards** for **3,000+ stakeholders** with **Power BI**, **Tableau**, **Alteryx**.
-- <i class="fas fa-users"></i> Trained **4,500+ professionals**, achieving **70%+ tool adoption**.
-- <i class="fas fa-tachometer-alt"></i> Reduced dashboard load times by **98%** using **DAX**.
+At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
+
+- <i class="fas fa-check-circle"></i> Developed **35+ Power BI** and **Tableau** dashboards, improving sales KPIs by **15%**, adopted by **3,000+ stakeholders** across Nomura and Cisco.
+- <i class="fas fa-robot"></i> Optimized **SQL queries** on **Snowflake**, reducing analytics runtime by **80%**, from 5 minutes to 45 seconds, enhancing decision-making.
+- <i class="fas fa-dollar-sign"></i> Drove **$700K+** in pipeline opportunities via **ML-based customer segmentation**, delivering **78+ cross-sell** insights at Cisco.
+- <i class="fas fa-chart-line"></i> Delivered **C-suite** PowerPoint presentations, aligning **market trends** and sales insights for **10%** revenue growth across regions.
+- <i class="fas fa-users"></i> Trained **4,500+** professionals globally, achieving **70%+** adoption of **BI tools**, boosting **digital literacy** and collaboration.
+- <i class="fas fa-tachometer-alt"></i> Ensured **0%** error rate in **automated reports** and **GDPR/CCPA** compliance, implementing **RBAC** and data masking for **100M+** records.
 
 <div class="certifications">
   <span class="cert-badge">Microsoft Certified: Power BI Data Analyst Associate</span>
@@ -74,6 +76,12 @@ Data Scientist and BI Specialist with **10+ years** delivering **high-impact ana
     <span class="skill-tag">Denodo</span>
     <span class="skill-tag">Vertex AI</span>
   </div>
+    <div class="skill-category">
+    <h3><i class="fas fa-cloud-upload-alt"></i> AI/ML Tools</h3>
+    <span class="skill-tag">Azure Machine Learning Studio</span>
+    <span class="skill-tag">Snowflake Cortex AI</span>
+    <span class="skill-tag">HuggingFace Transformers - LLM</span>
+  </div>
   <div class="skill-category">
     <h3><i class="fas fa-tools"></i> Other</h3>
     <span class="skill-tag">Docker</span>
@@ -84,6 +92,25 @@ Data Scientist and BI Specialist with **10+ years** delivering **high-impact ana
     <span class="skill-tag">Confluence</span>
   </div>
 </div>
+
+---
+
+### Core Competencies
+
+- **AI/ML Model Development & Deployment**
+- **Commercial Analytics**
+- **Compliance & Security**
+- **Cross-Functional Leadership**
+- **Data Analysis & Visualization**
+- **Data Integrity & Standardization**
+- **Data Pipeline Architecture & ETL Integration**
+- **Digital Transformation**
+- **Project Management**
+- **Retail Analytics & Customer Experience**
+- **Sales Insights & Analytics**
+- **Storytelling with Data**
+- **Strategic Growth**
+- **Team Leadership & Mentorship**
 
 ---
 
@@ -124,44 +151,45 @@ Showcasing **data analytics** and **BI** projects:
 
 ---
 
+
+
 ## 💼 Professional Experience
 
-### Cisco — Data Scientist
-**Apr 2023 – Present** | Bangalore, India  
-<div class="tech-stack">Snowflake, Streamlit, Python, Tableau, Alteryx, Excel</div>
+Cisco — Data Scientist & BI Specialist, Global Office of Analytics
+Apr 2023 – Present | Dubai, UAE
 
-- <i class="fas fa-robot"></i> Built **GenAI AI Assistant** with **Llama** & **GPT-3**, boosting **Tableau adoption** by **15%+**.
-- <i class="fas fa-users-cog"></i> Segmented customers with **ML**, adding **$700K** to pipeline.
-- <i class="fas fa-chart-bar"></i> Created **executive analytics** for **14 execs** in quarterly reviews.
+<div class="tech-stack">Snowflake, Streamlit, Python, Tableau, Power BI, Salesforce CRM Analytics, Azure</div>
+<i class="fas fa-robot"></i> Lead 3 direct reports, developing AI/ML pipelines and a GenAI Assistant using Llama and GPT-3, boosting Tableau dashboard adoption by 15%+ for 300+ users in one month.
+<i class="fas fa-users-cog"></i> Built customer segmentation models on telemetry data, delivering 78+ cross-sell opportunities, adding $700K to the pipeline for sales effectiveness.
+<i class="fas fa-chart-bar"></i> Architected interactive Power BI dashboards, adopted by 14 executives for quarterly reviews, enhancing sales KPI tracking and strategic alignment.
+Nomura — Assistant Vice President, Business Intelligence
+Jul 2021 – Feb 2023 | Dubai, UAE
 
-### Nomura Holdings Inc. — Assistant VP, BI
-**Jul 2021 – Feb 2023** | Bangalore & Mumbai - India, London - UK 
-<div class="tech-stack">SQL Server, Azure, Streamlit, Python, Power BI, Alteryx</div>
+<div class="tech-stack">SQL, Snowflake, Python, Power BI, Tableau, Alteryx, Azure</div>
+<i class="fas fa-dollar-sign"></i> Directed a RAD team of 7 BI analysts, delivering 35+ Power BI, Tableau, and Alteryx dashboards to track trader performance, improving sales metrics by 15% for 3,000+ stakeholders.
+<i class="fas fa-tachometer-alt"></i> Optimized SQL queries on Snowflake, reducing trade PnL analytics runtime by 80%, from 5 minutes to 45 seconds, enabling real-time insights.
+<i class="fas fa-chalkboard-teacher"></i> Presented data-driven market insights to C-suite, driving 10% revenue growth through strategic recommendations.
+State Street — Data Scientist, Global CoE
+Apr 2019 – Jul 2021 | Mumbai, India
 
-- <i class="fas fa-dollar-sign"></i> Analyzed **100M+ trades**, improving **profitability** by **15%**.
-- <i class="fas fa-tachometer-alt"></i> Built **35+ dashboards**, optimizing **DAX** for **98% faster** load times.
-- <i class="fas fa-chalkboard-teacher"></i> Trained **2,000+ professionals** on digital tools.
+<div class="tech-stack">SQL, Essbase, AWS, Snowflake, Tableau, Python, Excel</div>
+<i class="fas fa-file-alt"></i> Developed Client PnL dashboards using Essbase, AWS, and Snowflake, improving financial reporting accuracy for sales and compliance stakeholders.
+<i class="fas fa-cogs"></i> Built predictive segmentation models on ICAMS data, resolving 18% of operational issues, optimizing sales processes.
+<i class="fas fa-users"></i> Collaborated with cross-functional teams to integrate data pipelines, automating reporting workflows for decision-making efficiency.
+Kantar Group (Analytics Quotient) — Business Analyst
+Sep 2018 – Mar 2019 | Mumbai, India
 
-### State Street — Data Scientist
-**Apr 2019 – Jul 2021** | Bangalore, India 
-<div class="tech-stack">MySQL, Python, Tableau, Power BI, Alteryx</div>
+<div class="tech-stack">Tableau, SQL, Excel, Power BI, Python</div>
+<i class="fas fa-chart-line"></i> Created 3 interactive Tableau dashboards, enhancing retail sales insights and stakeholder communication for strategic decision-making.
+<i class="fas fa-shield-alt"></i> Standardized GDPR/CCPA-compliant reports, achieving 0% project failure rate through rigorous data integrity protocols.
+<i class="fas fa-search"></i> Conducted risk assessments, delivering data-driven recommendations to optimize retail analytics processes.
+Search2Hired Online Services — Business Analyst
+Apr 2015 – Aug 2018 | Mumbai, India
 
-- <i class="fas fa-handshake"></i> Designed **P&L report** for **60GB+** data, increasing **retention** by **13%**.
-- <i class="fas fa-chart-line"></i> Built **segmentation model**, resolving **18% of issues**.
-
-### Kantar Group — Business Analyst
-**Sep 2018 – Mar 2019** | Bangalore, India 
-<div class="tech-stack">Excel, Power BI, Tableau, SQL Server</div>
-
-- <i class="fas fa-lightbulb"></i> Delivered **insights** from large datasets.
-- <i class="fas fa-chart-pie"></i> Built **3 dashboards**, enhancing **decisions**.
-
-### Search2Hired — Business Analyst
-**Apr 2015 – Aug 2018** | Bangalore, India  
-<div class="tech-stack">MySQL, Excel, Power BI, Tableau</div>
-
-- <i class="fas fa-file-alt"></i> Delivered **50+ reports/quarter** with **0% errors**.
-- <i class="fas fa-cogs"></i> **Automated** workflows, boosting **efficiency**.
+<div class="tech-stack">SQL, Excel, Python, Tableau, Power Query</div>
+<i class="fas fa-file-excel"></i> Delivered 50+ quarterly dashboards and reports with 0% error rate, driving 95% client renewal rates in e-commerce and finance sectors.
+<i class="fas fa-users"></i> Collaborated with cross-functional teams to develop data-driven sales tools, optimizing business processes and customer insights.
+<i class="fas fa-clock"></i> Automated reporting workflows using Excel and SQL, saving 20 hours weekly for stakeholder teams.
 
 ---
 
