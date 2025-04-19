@@ -7,8 +7,10 @@
       <img src="assets/Professional_Pic-removebg-preview.png" alt="Gowtham K Jayachandiran" />
     </div>
     <div class="header-content">
-      <h1>Gowtham K Jayachandiran</h1>
-      <p class="tagline">Transforming Data into Strategic Success with Cutting-Edge Analytics and Visionary Leadership</p>
+  <h1>Gowtham K Jayachandiran</h1>
+  <p class="tagline">
+    Transforming Data into Strategic Success with Cutting-Edge Analytics and Visionary Leadership
+  </p>
       <div class="contact-info">
         <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
         <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
