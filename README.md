@@ -415,7 +415,8 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
         </div>
       </div>
 
-
+</div>
+</div>
 <style>
 /* General Layout */
 .portfolio-container {
