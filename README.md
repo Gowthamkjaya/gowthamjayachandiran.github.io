@@ -11,10 +11,10 @@
   <h4>Transforming Data into Strategic Success with Cutting-Edge Analytics and Visionary Leadership</h4>
       <div class="contact-info">
         <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
-        <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
+        <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840 / +91 9655554594</a></div>
         <div class="contact-item"><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkjaya@gmail.com</a></div>
-        <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumar/">LinkedIn</a></div>
-        <div class="contact-item"><i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></div>
+        <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumarj/">LinkedIn</a></div>
+        <div class="contact-item"><i class="fas fa-file-pdf"></i> <a href="assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></div>
       </div>
     </div>
   </div>
