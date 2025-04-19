@@ -8,7 +8,7 @@
     </div>
     <div class="header-content">
       <h1>Gowtham K Jayachandiran</h1>
-      <p class="tagline">Transforming complex data into actionable insights that drive business growth and strategic decision-making.</p>
+      <p class="tagline">Transforming complex data into actionable insights to drive business growth & strategic decision-making.</p>
       <div class="contact-info">
         <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
         <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
