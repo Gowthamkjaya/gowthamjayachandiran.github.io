@@ -8,11 +8,12 @@
     </div>
     <div class="header-content">
       <h1>Gowtham K Jayachandiran</h1>
+      <h4>Certified Business Intelligence Specialist & Data Scientist</h4>
       <div class="contact-info">
         <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
         <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
-        <div class="contact-item"><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkiaya@gmail.com</a></div>
-        <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumari/">LinkedIn</a></div>
+        <div class="contact-item"><i class="fas fa-envelope"></i> <a href="mailto:gowthamkiaya@gmail.com">gowthamkjaya@gmail.com</a></div>
+        <div class="contact-item"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gowtham-kumar/">LinkedIn</a></div>
         <div class="contact-item"><i class="fas fa-file-pdf"></i> <a href="/assets/Gowtham_Jayachandiran_Resume.pdf">Download Resume (PDF)</a></div>
       </div>
     </div>
@@ -330,20 +331,320 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 ---
 
-## 📂 Portfolio
+# 📊 My Portfolio
 
-Explore my work in **data science**, **business intelligence**, and **GenAI**:
+<div class="portfolio-container">
+  <!-- Left Column - YouTube Tutorials -->
+  <div class="portfolio-column">
+    <div class="section-header" style="background-color: #159957;">
+      <h2>📹 YouTube Tutorials</h2>
+    </div>
+    <div class="content-area">
+      <!-- YouTube Video Entry Example -->
+      <div class="video-card">
+        <div class="video-thumbnail">
+          <img src="/api/placeholder/320/180" alt="Tutorial thumbnail" />
+          <div class="play-button">▶️</div>
+        </div>
+        <div class="video-info">
+          <h3>Tutorial Title</h3>
+          <p>Brief description of what this tutorial covers and why it's valuable.</p>
+          <div class="video-stats">
+            <span>👁️ 1.2K views</span>
+            <span>⏱️ 15:24</span>
+          </div>
+          <a href="#" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
+        </div>
+      </div>
+      
+      <!-- Another YouTube Video Entry -->
+      <div class="video-card">
+        <div class="video-thumbnail">
+          <img src="/api/placeholder/320/180" alt="Tutorial thumbnail" />
+          <div class="play-button">▶️</div>
+        </div>
+        <div class="video-info">
+          <h3>Another Tutorial</h3>
+          <p>Learn how to implement this amazing feature in just minutes.</p>
+          <div class="video-stats">
+            <span>👁️ 3.5K views</span>
+            <span>⏱️ 8:47</span>
+          </div>
+          <a href="#" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
+        </div>
+      </div>
+      
+      <!-- Add more video cards as needed -->
+      <div class="load-more">
+        <a href="#" style="color: #159957;">Load more tutorials...</a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Right Column - External Links -->
+  <div class="portfolio-column">
+    <div class="section-header" style="background-color: #159957;">
+      <h2>🔗 External Projects</h2>
+    </div>
+    <div class="content-area">
+      <!-- GitHub Project -->
+      <div class="project-card github">
+        <div class="project-icon">
+          <svg viewBox="0 0 24 24" width="40" height="40">
+            <path fill="#159957" d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+          </svg>
+        </div>
+        <div class="project-info">
+          <h3>GitHub Repository</h3>
+          <p>A collection of code samples and projects showcasing my technical skills.</p>
+          <div class="project-stats">
+            <span>⭐ 45 stars</span>
+            <span>🔄 23 forks</span>
+          </div>
+          <a href="#" class="project-button" style="background-color: #159957;">View Repository</a>
+        </div>
+      </div>
+      
+      <!-- Streamlit App -->
+      <div class="project-card streamlit">
+        <div class="project-icon">
+          <svg viewBox="0 0 24 24" width="40" height="40">
+            <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
+          </svg>
+        </div>
+        <div class="project-info">
+          <h3>Streamlit Application</h3>
+          <p>Interactive data visualization web application built with Streamlit.</p>
+          <div class="project-stats">
+            <span>👁️ 2.8K views</span>
+            <span>🚀 Live Demo</span>
+          </div>
+          <a href="#" class="project-button" style="background-color: #159957;">Try Application</a>
+        </div>
+      </div>
+      
+      <!-- Personal Website -->
+      <div class="project-card website">
+        <div class="project-icon">
+          <svg viewBox="0 0 24 24" width="40" height="40">
+            <path fill="#159957" d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm7.931 9h-2.764a14.67 14.67 0 0 0-.496-2.995c.513-.23 1.011-.496 1.487-.806a8.007 8.007 0 0 1 1.773 3.801zM12 4c.791 0 1.651.378 2.501 1.158.579.533 1.113 1.248 1.584 2.102-.468.092-.96.176-1.476.242C13.949 7.156 13.048 7 12 7s-1.949.156-2.61.5c-.511-.065-1.005-.15-1.476-.242.471-.854 1.005-1.569 1.584-2.102C10.349 4.378 11.21 4 12 4zm-3.509 1.193c-.24.212-.464.433-.671.661C7.39 6.33 7.015 6.839 6.674 7.4c-.254.424-.48.873-.674 1.325A13.64 13.64 0 0 1 4.069 11H4c-.298 0-.595-.013-.883-.039A7.963 7.963 0 0 1 6.889 5.21c.532.311 1.03.577 1.542.807.204.09.414.173.631.249a13.917 13.917 0 0 0-.571.927zM4.069 13h2.764c.081 1.036.229 2.039.493 2.995-.508.227-1.001.492-1.472.799A8.007 8.007 0 0 1 4.069 13zM12 20c-.79 0-1.644-.375-2.489-1.144-.581-.532-1.112-1.242-1.584-2.087.483-.095.96-.181 1.476-.246.66.347 1.562.501 2.597.501s1.938-.154 2.597-.501c.516.065 1.003.156 1.476.246-.472.845-1.003 1.555-1.584 2.087C13.644 19.625 12.79 20 12 20zm3.254-1.893c.477-.307.97-.572 1.478-.799.264-.956.412-1.959.493-2.995h2.764a8.007 8.007 0 0 1-1.773 3.799c-.471-.298-.964-.562-1.472-.788a11.81 11.81 0 0 0-.63-.249c.208-.294.403-.603.571-.926.169-.323.32-.666.456-1.022l-1.887.982zm4.671-8.046A7.963 7.963 0 0 1 20.883 11h-.014c-.298 0-.595.013-.883.039a14.118 14.118 0 0 0-.493-2.995c.513-.23 1.011-.496 1.487-.806z"/>
+          </svg>
+        </div>
+        <div class="project-info">
+          <h3>Personal Website</h3>
+          <p>My professional portfolio website showcasing projects and skills.</p>
+          <div class="project-stats">
+            <span>🛠️ HTML/CSS/JS</span>
+            <span>🔄 Recently Updated</span>
+          </div>
+          <a href="#" class="project-button" style="background-color: #159957;">Visit Website</a>
+        </div>
+      </div>
+      
+      <!-- Add more project cards as needed -->
+    </div>
+  </div>
+</div>
 
-### YouTube Videos
-Showcasing **data analytics** and **BI** projects:
+<style>
+/* General Layout */
+.portfolio-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20px 0;
+}
 
-- <i class="fab fa-youtube"></i> **[GenAI Dashboard Demo]**  
-  Walkthrough of a **Tableau** dashboard powered by **GenAI** insights from **Cisco** projects.  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+.portfolio-column {
+  flex: 1;
+  min-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+  background-color: #ffffff;
+}
 
-- <i class="fab fa-youtube"></i> **[ML Segmentation Tutorial]**  
-  Explaining **Python**-based customer segmentation, inspired by **$700K pipeline** success.  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+.section-header {
+  padding: 15px 20px;
+  color: white;
+}
+
+.section-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.content-area {
+  padding: 20px;
+}
+
+/* YouTube Videos Section */
+.video-card {
+  margin-bottom: 25px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.video-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.video-thumbnail {
+  position: relative;
+  overflow: hidden;
+}
+
+.video-thumbnail img {
+  width: 100%;
+  transition: transform 0.5s ease;
+}
+
+.video-card:hover .video-thumbnail img {
+  transform: scale(1.05);
+}
+
+.play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  opacity: 0.8;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.video-card:hover .play-button {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.video-info {
+  padding: 15px;
+}
+
+.video-info h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.video-info p {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.video-stats {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.watch-button {
+  display: inline-block;
+  padding: 8px 16px;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: opacity 0.3s ease;
+}
+
+.watch-button:hover {
+  opacity: 0.9;
+}
+
+/* External Links Section */
+.project-card {
+  display: flex;
+  margin-bottom: 25px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.project-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  background-color: #f8f9fa;
+}
+
+.project-info {
+  flex: 1;
+  padding: 15px;
+}
+
+.project-info h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.project-info p {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.project-stats {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.project-button {
+  display: inline-block;
+  padding: 8px 16px;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: opacity 0.3s ease;
+}
+
+.project-button:hover {
+  opacity: 0.9;
+}
+
+.load-more {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.load-more a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.load-more a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .portfolio-container {
+    flex-direction: column;
+  }
+  
+  .portfolio-column {
+    width: 100%;
+  }
+}
+</style>
 
 ---
 
@@ -404,17 +705,149 @@ Showcasing **data analytics** and **BI** projects:
 
 ---
 
+# 📚 Academic Journey
+
+<div align="center">
+  <img src="/api/placeholder/800/300" alt="University campus panorama" />
+</div>
+
 ## 🎓 Education
 
-**Master of Technology** (7.8 CGPA) | Anna University, Chennai, India | 2013–15
-**Bachelor of Technology** (7.3 CGPA) | Anna University, Chennai, India | 2009–13
+<div class="timeline">
+  <div class="timeline-entry">
+    <div class="timeline-icon">🏆</div>
+    <div class="timeline-content">
+      <h3>Master of Technology</h3>
+      <p><strong>Anna University</strong>, Chennai, India | 2013–2015</p>
+      <div class="achievement">
+        <span class="badge">7.8 CGPA</span>
+        <div class="progress-bar">
+          <div class="progress" style="width: 78%"></div>
+        </div>
+      </div>
+      <p class="quote">"The foundation for innovation and advanced problem-solving"</p>
+    </div>
+  </div>
+  
+  <div class="timeline-entry">
+    <div class="timeline-icon">🚀</div>
+    <div class="timeline-content">
+      <h3>Bachelor of Technology</h3>
+      <p><strong>Anna University</strong>, Chennai, India | 2009–2013</p>
+      <div class="achievement">
+        <span class="badge">7.3 CGPA</span>
+        <div class="progress-bar">
+          <div class="progress" style="width: 73%"></div>
+        </div>
+      </div>
+      <p class="quote">"Where the technical journey began"</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #3498db;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  margin-left: -3px;
+  border-radius: 5px;
+}
+
+.timeline-entry {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  margin-bottom: 30px;
+}
+
+.timeline-icon {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 0;
+  background-color: white;
+  border: 4px solid #3498db;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.timeline-content {
+  padding: 20px 30px;
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.timeline-content:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  transform: translateY(-5px);
+}
+
+.timeline-content h3 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+.achievement {
+  margin: 15px 0;
+}
+
+.badge {
+  background-color: #3498db;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.progress-bar {
+  height: 10px;
+  background-color: #ecf0f1;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.progress {
+  height: 100%;
+  background-color: #2ecc71;
+  border-radius: 5px;
+  transition: width 1s ease-in-out;
+}
+
+.quote {
+  font-style: italic;
+  color: #7f8c8d;
+  border-left: 3px solid #3498db;
+  padding-left: 10px;
+  margin-top: 15px;
+}
+</style>
 
 ---
 
 ## 🏅 Certifications
 
 <div class="certifications-container">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/" target="_blank" class="certification-card">
+  <a href="https://www.credly.com/badges/2602290b-f99d-4608-a6f0-bf7f57fcf8e9/linked_in_profile" target="_blank" class="certification-card">
     <div class="cert-icon"><i class="fab fa-microsoft"></i></div>
     <div class="cert-details">
       <h3>Microsoft Certified</h3>
@@ -423,7 +856,7 @@ Showcasing **data analytics** and **BI** projects:
     <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
   </a>
   
-  <a href="https://www.tableau.com/learn/certification/desktop-specialist" target="_blank" class="certification-card">
+  <a href="https://www.credly.com/badges/360f9ade-b276-43c8-a055-d1bf10e7a40c/linked_in_profile" target="_blank" class="certification-card">
     <div class="cert-icon"><i class="fas fa-chart-bar"></i></div>
     <div class="cert-details">
       <h3>Tableau</h3>
@@ -432,7 +865,7 @@ Showcasing **data analytics** and **BI** projects:
     <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
   </a>
   
-  <a href="https://www.alteryx.com/designer-core" target="_blank" class="certification-card">
+  <a href="https://www.credly.com/badges/bff0570b-30ab-41ec-8e34-680d5ff0ef48?source=linked_in_profile" target="_blank" class="certification-card">
     <div class="cert-icon"><i class="fas fa-cogs"></i></div>
     <div class="cert-details">
       <h3>Alteryx</h3>
@@ -441,7 +874,7 @@ Showcasing **data analytics** and **BI** projects:
     <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
   </a>
   
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-excel-expert-2019/" target="_blank" class="certification-card">
+  <a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=417&cvid=iSZInhczAUkSdUt5EYeF0A==" target="_blank" class="certification-card">
     <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
     <div class="cert-details">
       <h3>Microsoft Office Specialist</h3>
