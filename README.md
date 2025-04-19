@@ -105,9 +105,9 @@
 
 ## ✨ Executive Summary
 
-**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail**, and **Technology sectors**.
+**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail** and **Technology sectors**.
 
-Excel at designing **Dynamic Dashboards**,**ML/AI Model Development & Deployment** **Optimizing Data Pipelines**, and **Leading Cross-Functional** teams to align with global business objectives. 
+Excel at designing **Dynamic Dashboards**, **ML/AI Model Development & Deployment**, **Optimizing Data Pipelines** and **Leading Cross-Functional** teams to align with global business objectives. 
 
 At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
 
@@ -124,6 +124,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   <span class="cert-badge">Tableau Desktop Specialist Certification</span>
   <span class="cert-badge">Alteryx Designer Core Certification</span>
   <span class="cert-badge">Microsoft Office Specialist – Excel Expert</span>
+  <span class="cert-badge">HackerRank SQL Intermediate – Gold Medal</span>
 </div>
 
 ---
@@ -271,43 +272,70 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
       <!-- YouTube Video Entry Example -->
       <div class="video-card">
         <div class="video-thumbnail">
-          <img src="/api/placeholder/320/180" alt="Tutorial thumbnail" />
+          <img src="/api/placeholder/320/180" alt="Excel - Tutorials" />
           <div class="play-button">▶️</div>
         </div>
         <div class="video-info">
-          <h3>Tutorial Title</h3>
-          <p>Brief description of what this tutorial covers and why it's valuable.</p>
+          <h3>Excel Tutorials - Beginner to Intermediate</h3>
+          <p>Contains 4-hour detailed explanation of basic functions and formula</p>
           <div class="video-stats">
             <span>👁️ 1.2K views</span>
-            <span>⏱️ 15:24</span>
+            <span>⏱️ 04:15:24</span>
           </div>
-          <a href="#" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
+          <a href="https://www.youtube.com/watch?v=j_IunrORQZ0&list=PLlEyMvUZ31GAJzVplMliIsoRsgoF90B-M" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
         </div>
       </div>
       
       <!-- Another YouTube Video Entry -->
       <div class="video-card">
         <div class="video-thumbnail">
-          <img src="/api/placeholder/320/180" alt="Tutorial thumbnail" />
+          <img src="/api/placeholder/320/180" alt="Tableau Tutorial" />
           <div class="play-button">▶️</div>
         </div>
         <div class="video-info">
-          <h3>Another Tutorial</h3>
-          <p>Learn how to implement this amazing feature in just minutes.</p>
+          <h3>Tableau - Beginner to Intermediate</h3>
+          <p>14-hour videos which contains how to get started with Tableau and all the way till building a report independently</p>
           <div class="video-stats">
             <span>👁️ 3.5K views</span>
-            <span>⏱️ 8:47</span>
+            <span>⏱️ 14:15:47</span>
           </div>
-          <a href="#" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
+          <a href="https://www.youtube.com/watch?v=aS7NtoFXVg4&list=PLlEyMvUZ31GDBzJEQEiT4mwQ2HoEEMzK4" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
         </div>
       </div>
       
-      <!-- Add more video cards as needed -->
-      <div class="load-more">
-        <a href="#" style="color: #159957;">Load more tutorials...</a>
+      <!-- Another YouTube Video Entry -->
+      <div class="video-card">
+        <div class="video-thumbnail">
+          <img src="/api/placeholder/320/180" alt="SQL Tutorial" />
+          <div class="play-button">▶️</div>
+        </div>
+        <div class="video-info">
+          <h3>SQL Tutorial - Joins & Sub-Queries</h3>
+          <p>Contains 4-hour detailed explanation of MySQL JOINS and SUBQUERIES</p>
+          <div class="video-stats">
+            <span>👁️ 2.7K views</span>
+            <span>⏱️ 4:07:17</span>
+          </div>
+          <a href="https://www.youtube.com/watch?v=8P4bjjpTDJg&list=PLlEyMvUZ31GAwPLDcTQfjEtyuZjL-Dctx" style="background-color: #159957;">Watch Tutorial</a>
+        </div>
       </div>
-    </div>
-  </div>
+
+      <!-- Another YouTube Video Entry -->
+      <div class="video-card">
+        <div class="video-thumbnail">
+          <img src="/api/placeholder/320/180" alt="Alteryx Tutorial" />
+          <div class="play-button">▶️</div>
+        </div>
+        <div class="video-info">
+          <h3>Alteryx Tutorial - Beginner to Intermediate</h3>
+          <p>14-hour videos which contains how to get started with Tableau and all the way till building a report independently</p>
+          <div class="video-stats">
+            <span>👁️ 3.5K views</span>
+            <span>⏱️ 04:23:32</span>
+          </div>
+          <a href="https://www.youtube.com/watch?v=EH8ohIA2KHc" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
+        </div>
+      </div>
   
   <!-- Right Column - External Links -->
   <div class="portfolio-column">
@@ -589,6 +617,9 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
     <i class="fas fa-shield-alt"></i> Compliance & Security
   </div>
   <div class="competency-item">
+    <i class="fas fa-brain"></i> Machine Learning & Deep Learning
+  </div>
+  <div class="competency-item">
     <i class="fas fa-users"></i> Cross-Functional Leadership
   </div>
   <div class="competency-item">
@@ -614,6 +645,9 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   </div>
   <div class="competency-item">
     <i class="fas fa-comment-dots"></i> Storytelling with Data
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-chart-bar"></i> Business Intelligence
   </div>
   <div class="competency-item">
     <i class="fas fa-arrow-trend-up"></i> Strategic Growth
