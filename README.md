@@ -114,11 +114,11 @@ Excel at designing **Dynamic Dashboards**,**ML/AI Model Development & Deployment
 At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
 
 - ✅ Developed **35+ Power BI** & **Tableau** dashboards, improving usage by **15%**, adopted by **3,000+ stakeholders** across Nomura & Cisco.
-- 🤖 Optimized **SQL queries** on **Snowflake**, reducing analytics runtime by **80%**, from 5 minutes to 45 seconds.
-- 💰 Drove **$700K+** in pipeline opportunities via **ML-based customer segmentation**.
-- 📈 Delivered **C-suite** presentations for **10%** revenue growth.
-- 👨‍🏫 Trained **4,500+** professionals, boosting **digital literacy**.
-- 🔒 Ensured **0%** error rate and **GDPR/CCPA** compliance for **100M+ records**.
+- 🤖 Optimized **SQL queries** on **Snowflake**, reducing analytics runtime by **80%**, from 5 minutes to 45 seconds, enhancing decision-making.
+- 💰 Drove **$700K+** in pipeline opportunities via **ML-based customer segmentation**, delivering **78+ cross-sell** insights at Cisco.
+- 📈 Delivered **C-suite** PowerPoint presentations, aligning **market trends** and **sales insights** for **10%** revenue growth across regions.
+- 👨‍🏫 Trained **4,500+** professionals globally, achieving **70%+** adoption of **BI tools**, boosting **digital literacy** and collaboration.
+- 🔒 Ensured **0%** error rate in automated reports and **GDPR/CCPA** compliance, implementing **RBAC** and data masking for **100M+** records.
 
 <div class="certifications">
   <span class="cert-badge">Microsoft Certified: Power BI Data Analyst Associate</span>
