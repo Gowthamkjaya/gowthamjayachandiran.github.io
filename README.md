@@ -351,13 +351,13 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
           </svg>
         </div>
         <div class="project-info">
-          <h3>GitHub Repository</h3>
-          <p>A collection of code samples and projects showcasing my technical skills.</p>
+          <h3>Tableau Descriptive & Predictive Dashboard</h3>
+          <p>Detailed breakdown of visuals representing both descriptive & predictive metrics on Sample Superstore dataset</p>
           <div class="project-stats">
-            <span>⭐ 45 stars</span>
-            <span>🔄 23 forks</span>
+            <span>⭐ 1000+ views</span>
+            <span>🔄 Built in 2019</span>
           </div>
-          <a href="#" class="project-button" style="background-color: #159957;">View Repository</a>
+          <a href="https://public.tableau.com/app/profile/gowtham.kumar.jayachandiran/viz/DescriptivePredictiveAnalysis-SuperstoreSales/TitleDB" class="project-button" style="background-color: #159957;">View Dashboard</a>
         </div>
       </div>
       
@@ -387,20 +387,34 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
           </svg>
         </div>
         <div class="project-info">
-          <h3>Personal Website</h3>
-          <p>My professional portfolio website showcasing projects and skills.</p>
+          <h3>Power BI Headcount Dashboard</h3>
+          <p>Headcount dashboard containing all key metrics & KPI's about retention, attrition, etc.,</p>
           <div class="project-stats">
-            <span>🛠️ HTML/CSS/JS</span>
-            <span>🔄 Recently Updated</span>
+            <span>🛠️ Power BI Desktop, Power Query Editor</span>
+            <span>🔄 Built in 2021</span>
           </div>
           <a href="#" class="project-button" style="background-color: #159957;">Visit Website</a>
         </div>
       </div>
       
-      <!-- Add more project cards as needed -->
-    </div>
-  </div>
-</div>
+      <!-- Streamlit App -->
+      <div class="project-card streamlit">
+        <div class="project-icon">
+          <svg viewBox="0 0 24 24" width="40" height="40">
+            <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
+          </svg>
+        </div>
+        <div class="project-info">
+          <h3>Streamlit Application</h3>
+          <p>Interactive data visualization web application built with Streamlit.</p>
+          <div class="project-stats">
+            <span>👁️ 2.8K views</span>
+            <span>🚀 Live Demo</span>
+          </div>
+          <a href="#" class="project-button" style="background-color: #159957;">Try Application</a>
+        </div>
+      </div>
+
 
 <style>
 /* General Layout */
