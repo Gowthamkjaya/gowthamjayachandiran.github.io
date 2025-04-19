@@ -8,7 +8,6 @@
     </div>
     <div class="header-content">
       <h1>Gowtham K Jayachandiran</h1>
-      <h4>Certified Business Intelligence Specialist & Data Scientist</h4>
       <p class="tagline">Transforming complex data into actionable insights that drive business growth and strategic decision-making.</p>
       <div class="contact-info">
         <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
