@@ -105,7 +105,7 @@
 
 ## ✨ Executive Summary
 
-**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail**, and **Technology sectors**. 
+**Business Intelligence** and **Data Science leader** with over **10 years of experience** driving **digital transformation**, **actionable insights**, and **strategic growth** in **Fintech**, **Retail**, and **Technology sectors**.
 
 Excel at designing **Dynamic Dashboards**,**ML/AI Model Development & Deployment** **Optimizing Data Pipelines**, and **Leading Cross-Functional** teams to align with global business objectives. 
 
@@ -697,10 +697,6 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 ---
 
 # 📚 Academic Journey
-
-<div align="center">
-  <img src="/api/placeholder/800/300" alt="University campus panorama" />
-</div>
 
 ## 🎓 Education
 
