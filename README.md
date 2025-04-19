@@ -272,7 +272,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
       <!-- YouTube Video Entry Example -->
       <div class="video-card">
         <div class="video-thumbnail">
-          <img src="/api/placeholder/320/180" alt="Excel - Tutorials" />
+          <img src="assets/images/excel_tutorial.jpg" alt="Excel - Tutorials" />
           <div class="play-button">▶️</div>
         </div>
         <div class="video-info">
@@ -289,7 +289,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
       <!-- Another YouTube Video Entry -->
       <div class="video-card">
         <div class="video-thumbnail">
-          <img src="/api/placeholder/320/180" alt="Tableau Tutorial" />
+          <img src="assets/images/Tableau-tutorial.png" alt="Tableau Tutorial" />
           <div class="play-button">▶️</div>
         </div>
         <div class="video-info">
@@ -306,7 +306,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
       <!-- Another YouTube Video Entry -->
       <div class="video-card">
         <div class="video-thumbnail">
-          <img src="/api/placeholder/320/180" alt="SQL Tutorial" />
+          <img src="assets/images/sql-tutorial.png" alt="SQL Tutorial" />
           <div class="play-button">▶️</div>
         </div>
         <div class="video-info">
@@ -323,7 +323,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
       <!-- Another YouTube Video Entry -->
       <div class="video-card">
         <div class="video-thumbnail">
-          <img src="/api/placeholder/320/180" alt="Alteryx Tutorial" />
+          <img src="assets/images/alteryx_tutorial.jpg" alt="Alteryx Tutorial" />
           <div class="play-button">▶️</div>
         </div>
         <div class="video-info">
