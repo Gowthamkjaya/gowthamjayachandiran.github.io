@@ -266,7 +266,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 <!-- Left Column - YouTube Tutorials -->
 <div style="flex: 1; min-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; background-color: #ffffff;">
-  <div style="padding: 15px 20px; background-color: #159957; color: white;">
+  <div style="padding: 15px 20px; background-color: #ffffff; color: white;">
     <h2>📹 YouTube Tutorials</h2>
   </div>
   <div style="padding: 20px;">
@@ -342,7 +342,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 <!-- Right Column - External Links -->
 <div style="flex: 1; min-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; background-color: #ffffff;">
-  <div style="padding: 15px 20px; background-color: #159957; color: white;">
+  <div style="padding: 15px 20px; background-color: #ffffff; color: white;">
     <h2>🔗 External Projects</h2>
   </div>
   <div style="padding: 20px;">
