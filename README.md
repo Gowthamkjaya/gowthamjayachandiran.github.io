@@ -8,7 +8,7 @@
     </div>
     <div class="header-content">
       <h1>Gowtham K Jayachandiran</h1>
-      <p class="tagline">Transforming complex data into actionable insights that drive business growth & strategic decision-making</p>
+      <p class="tagline">Transforming Data into Strategic Success with Cutting-Edge Analytics and Visionary Leadership</p>
       <div class="contact-info">
         <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
         <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
@@ -253,75 +253,6 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   color: #159957;
   margin-right: 6px;
   font-size: 0.85rem;
-}
-</style>
-
----
-
-## 🧠 Core Competencies
-
-<div class="competencies-grid">
-  <div class="competency-item">
-    <i class="fas fa-brain"></i> AI/ML Model Development & Deployment
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-chart-line"></i> Commercial Analytics
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-shield-alt"></i> Compliance & Security
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-users"></i> Cross-Functional Leadership
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-chart-bar"></i> Data Analysis & Visualization
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-check-circle"></i> Data Integrity & Standardization
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-database"></i> Data Pipeline Architecture & ETL Integration
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-digital-tachograph"></i> Digital Transformation
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-tasks"></i> Project Management
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-shopping-cart"></i> Retail Analytics & Customer Experience
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-lightbulb"></i> Sales Insights & Analytics
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-comment-dots"></i> Storytelling with Data
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-arrow-trend-up"></i> Strategic Growth
-  </div>
-  <div class="competency-item">
-    <i class="fas fa-user-tie"></i> Team Leadership & Mentorship
-  </div>
-</div>
-
-<style>
-.competencies-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 12px;
-}
-.competency-item {
-  padding: 8px 12px;
-  border-radius: 4px;
-  background-color: #f8f9fa;
-  border-left: 3px solid #159957;
-}
-.competency-item i {
-  color: #159957;
-  width: 20px;
-  text-align: center;
-  margin-right: 8px;
 }
 </style>
 
@@ -639,6 +570,75 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   .portfolio-column {
     width: 100%;
   }
+}
+</style>
+
+---
+
+## 🧠 Core Competencies
+
+<div class="competencies-grid">
+  <div class="competency-item">
+    <i class="fas fa-brain"></i> AI/ML Model Development & Deployment
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-chart-line"></i> Commercial Analytics
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-shield-alt"></i> Compliance & Security
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-users"></i> Cross-Functional Leadership
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-chart-bar"></i> Data Analysis & Visualization
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-check-circle"></i> Data Integrity & Standardization
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-database"></i> Data Pipeline Architecture & ETL Integration
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-digital-tachograph"></i> Digital Transformation
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-tasks"></i> Project Management
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-shopping-cart"></i> Retail Analytics & Customer Experience
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-lightbulb"></i> Sales Insights & Analytics
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-comment-dots"></i> Storytelling with Data
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-arrow-trend-up"></i> Strategic Growth
+  </div>
+  <div class="competency-item">
+    <i class="fas fa-user-tie"></i> Team Leadership & Mentorship
+  </div>
+</div>
+
+<style>
+.competencies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px;
+}
+.competency-item {
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  border-left: 3px solid #159957;
+}
+.competency-item i {
+  color: #159957;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
 }
 </style>
 
