@@ -340,17 +340,20 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   </div>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+
 <!-- Right Column - External Links -->
 <div style="flex: 1; min-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; background-color: #ffffff;">
   <div style="padding: 15px 20px; background-color: #159957; color: white;">
     <h2 style="color: white;">🔗 External Projects</h2>
   </div>
   <div style="padding: 20px;">
-    <!-- GitHub Project -->
+    <!-- Tableau Project -->
     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
-        <svg viewBox="0 0 24 24" width="40" height="40">
-          <path fill="#159957" d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+        <!-- Tableau Icon -->
+        <svg viewBox="0 0 512 512" width="40" height="40">
+          <path fill="#159957" d="M255.5 0c-17.7 0-32 14.3-32 32v18.3h-18.3c-17.7 0-32 14.3-32 32s14.3 32 32 32H223.5V133c0 17.7 14.3 32 32 32s32-14.3 32-32v-18.3h18.3c17.7 0 32-14.3 32-32s-14.3-32-32-32H287.5V32c0-17.7-14.3-32-32-32zm-160 96c-17.7 0-32 14.3-32 32v18.3H45.3c-17.7 0-32 14.3-32 32s14.3 32 32 32H63.5V229c0 17.7 14.3 32 32 32s32-14.3 32-32v-18.3h18.3c17.7 0 32-14.3 32-32s-14.3-32-32-32H127.5V128c0-17.7-14.3-32-32-32zm320 0c-17.7 0-32 14.3-32 32v18.3h-18.3c-17.7 0-32 14.3-32 32s14.3 32 32 32H383.5V229c0 17.7 14.3 32 32 32s32-14.3 32-32v-18.3h18.3c17.7 0 32-14.3 32-32s-14.3-32-32-32H447.5V128c0-17.7-14.3-32-32-32zM96 256c-17.7 0-32 14.3-32 32v18.3H45.3c-17.7 0-32 14.3-32 32s14.3 32 32 32H63.5V413c0 17.7 14.3 32 32 32s32-14.3 32-32v-18.3h18.3c17.7 0 32-14.3 32-32s-14.3-32-32-32H127.5V288c0-17.7-14.3-32-32-32zm320 0c-17.7 0-32 14.3-32 32v18.3h-18.3c-17.7 0-32 14.3-32 32s14.3 32 32 32H383.5V413c0 17.7 14.3 32 32 32s32-14.3 32-32v-18.3h18.3c17.7 0 32-14.3 32-32s-14.3-32-32-32H447.5V288c0-17.7-14.3-32-32-32zm-160 64c-17.7 0-32 14.3-32 32v18.3h-18.3c-17.7 0-32 14.3-32 32s14.3 32 32 32H223.5V509c0 1.6.1 3.2.3 4.7C226 505 240 512 255.5 512c15.5 0 29.5-7 31.7-27.3.2-1.5.3-3.1.3-4.7V413h18.3c17.7 0 32-14.3 32-32s-14.3-32-32-32H287.5V352c0-17.7-14.3-32-32-32z"/>
         </svg>
       </div>
       <div style="flex: 1; padding: 15px;">
@@ -363,6 +366,9 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
         <a href="https://public.tableau.com/app/profile/gowtham.kumar.jayachandiran/viz/DescriptivePredictiveAnalysis-SuperstoreSales/TitleDB" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">View Dashboard</a>
       </div>
     </div>
+  </div>
+</div>
+</div>
     
     <!-- Streamlit App -->
     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
