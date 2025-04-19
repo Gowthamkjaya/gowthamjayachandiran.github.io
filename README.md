@@ -111,6 +111,7 @@ Excel at designing **Dynamic Dashboards**,**ML/AI Model Development & Deployment
 
 At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
 
+- 🧠 Developed & Deployed production scale **RAG AI Streamlit** app using GPT-3.0 Turbo, Langchain, enhancing **Tableau Dashboard** adoption and boosting **user interaction** efficiency by **25%**.
 - ✅ Developed **35+ Power BI** & **Tableau** dashboards, improving usage by **15%**, adopted by **3,000+ stakeholders** across Nomura & Cisco.
 - 🤖 Optimized **SQL queries** on **Snowflake**, reducing analytics runtime by **80%**, from 5 minutes to 45 seconds, enhancing decision-making.
 - 💰 Drove **$700K+** in pipeline opportunities via **ML-based customer segmentation**, delivering **78+ cross-sell** insights at Cisco.
