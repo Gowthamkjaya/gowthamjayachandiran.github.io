@@ -9,6 +9,7 @@
     <div class="header-content">
       <h1>Gowtham K Jayachandiran</h1>
       <h4>Certified Business Intelligence Specialist & Data Scientist</h4>
+      <p class="tagline">Transforming complex data into actionable insights that drive business growth and strategic decision-making.</p>
       <div class="contact-info">
         <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Al Murar, Gold Souq, Dubai, UAE</div>
         <div class="contact-item"><i class="fas fa-phone"></i> <a href="tel:+971501741840">+971 501741840</a></div>
@@ -19,22 +20,18 @@
     </div>
   </div>
 </div>
-
 <style>
 .header {
   margin-bottom: 30px;
 }
-
 .header-container {
   display: flex;
   align-items: center;
   gap: 30px;
 }
-
 .profile-image {
   flex-shrink: 0;
 }
-
 .profile-image img {
   width: 150px;
   height: 150px;
@@ -42,48 +39,48 @@
   object-fit: cover;
   border: 3px solid #159957;
 }
-
 .header-content {
   flex-grow: 1;
 }
-
 .header h1 {
   margin-bottom: 12px;
   color: #159957;
   font-size: 2.3rem;
   margin-top: 0;
 }
-
+.tagline {
+  font-size: 1.1rem;
+  color: #555;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  line-height: 1.4;
+  font-style: italic;
+}
 .contact-info {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
   margin-top: 12px;
 }
-
 .contact-item {
   display: flex;
   align-items: center;
   font-size: 0.95rem;
 }
-
 .contact-item i {
   color: #159957;
   margin-right: 6px;
   font-size: 1rem;
 }
-
 .contact-item a {
   color: #333;
   text-decoration: none;
   transition: color 0.2s;
 }
-
 .contact-item a:hover {
   color: #159957;
   text-decoration: underline;
 }
-
 @media (max-width: 768px) {
   .header-container {
     flex-direction: column;
@@ -648,60 +645,55 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 ---
 
-### External Links
-- <i class="fas fa-laptop-code"></i> **[Streamlit Portfolio]**  
-  Interactive **Streamlit** app showcasing **Snowflake** analytics projects.  
-  [View App](https://gowtham-streamlit-portfolio.streamlit.app)
-- <i class="fab fa-github"></i> **[GitHub Repository]**  
-  Code for **Python**, **ML**, and **BI** projects, including **Jupyter Notebooks**.  
-  [github.com/username](https://github.com/username)
-- <i class="fas fa-blog"></i> **[Medium Blog]**  
-  Articles on **GenAI**, **BI trends**, and **data science** in **Dubai**.  
-  [medium.com/@gowthamkiaya](https://medium.com/@gowthamkiaya)
+# 💼 Professional Experience
 
----
-
-## 💼 Professional Experience
-
-### <i class="fas fa-network-wired"></i> Cisco — Data Scientist & BI Specialist, Global Office of Analytics
-#### Apr 2023 – Present | Bengaluru, India
+## <i class="fas fa-network-wired"></i> Cisco — Data Scientist & BI Specialist, Global Office of Analytics
+### Apr 2023 – Present | Bengaluru, India
 <div class="tech-stack">Snowflake, Streamlit, Python, Tableau, Power BI, Salesforce CRM Analytics, Azure</div>
 
-  - <i class="fas fa-robot"></i> Lead **3 direct reports**, developing **AI/ML** pipelines and a **GenAI Assistant** using **Llama** and **GPT-4 Turbo**, boosting **Tableau dashboard** adoption by **15%+** for **300+** users in one month.
-  - <i class="fas fa-users-cog"></i> Built **customer segmentation** models on **telemetry data**, delivering **78+ cross-sell** opportunities, adding **$700K** to the pipeline for sales effectiveness.
-  - <i class="fas fa-chart-bar"></i> Architected interactive **Power BI** dashboards, adopted by **14 executives** for quarterly reviews, enhancing sales **KPI tracking** and strategic alignment.
+- <i class="fas fa-robot"></i> Lead **3 direct reports**, developing **AI/ML** pipelines and a **GenAI Assistant** using **Llama** and **GPT-4 Turbo**, boosting **Tableau dashboard** adoption by **15%+** for **300+** users in one month.
+- <i class="fas fa-users-cog"></i> Built **customer segmentation** models on **telemetry data**, delivering **78+ cross-sell** opportunities, adding **$700K** to the pipeline for sales effectiveness.
+- <i class="fas fa-chart-bar"></i> Architected interactive **Power BI** dashboards, adopted by **14 executives** for quarterly reviews, enhancing sales **KPI tracking** and strategic alignment.
 
-### <i class="fas fa-landmark"></i> Nomura — Assistant Vice President, Business Intelligence
-#### Jul 2021 – Feb 2023 | Bengaluru, India
+&nbsp;
+
+## <i class="fas fa-landmark"></i> Nomura — Assistant Vice President, Business Intelligence
+### Jul 2021 – Feb 2023 | Bengaluru, India
 <div class="tech-stack">SQL, Snowflake, Python, Power BI, Tableau, Alteryx, Azure</div>
 
-  - <i class="fas fa-dollar-sign"></i> Directed a **RAD team** of **7 BI analysts**, delivering **35+ Power BI**, **Tableau**, and **Alteryx** dashboards to track trader performance, improving sales metrics by **15%** for **3,000+** stakeholders.
-  - <i class="fas fa-tachometer-alt"></i> Optimized SQL queries on **Snowflake**, reducing trade **PnL analytics** runtime by **80%**, from **5 minutes to 45 seconds**, enabling real-time insights.
-  - <i class="fas fa-chalkboard-teacher"></i> Presented data-driven market insights to **C-suite**, driving **10%** revenue growth through strategic recommendations.
+- <i class="fas fa-dollar-sign"></i> Directed a **RAD team** of **7 BI analysts**, delivering **35+ Power BI**, **Tableau**, and **Alteryx** dashboards to track trader performance, improving sales metrics by **15%** for **3,000+** stakeholders.
+- <i class="fas fa-tachometer-alt"></i> Optimized SQL queries on **Snowflake**, reducing trade **PnL analytics** runtime by **80%**, from **5 minutes to 45 seconds**, enabling real-time insights.
+- <i class="fas fa-chalkboard-teacher"></i> Presented data-driven market insights to **C-suite**, driving **10%** revenue growth through strategic recommendations.
 
-### <i class="fas fa-university"></i> State Street — Data Scientist, Global CoE
-#### Apr 2019 – Jul 2021 | Bengaluru, India
+&nbsp;
+
+## <i class="fas fa-university"></i> State Street — Data Scientist, Global CoE
+### Apr 2019 – Jul 2021 | Bengaluru, India
 <div class="tech-stack">SQL, Essbase, AWS, Snowflake, Tableau, Python, Excel</div>
 
-  - <i class="fas fa-file-alt"></i> Developed **Client PnL** dashboards using **Essbase**, **AWS**, and **Snowflake**, improving financial reporting accuracy for sales and **compliance stakeholders**.
-  - <i class="fas fa-cogs"></i> Built **predictive segmentation** models on **ICAMS** data, resolving **18%** of **operational issues**, optimizing sales processes.
-  - <i class="fas fa-users"></i> Collaborated with cross-functional teams to integrate **data pipelines**, **automating reporting** workflows for decision-making efficiency.
+- <i class="fas fa-file-alt"></i> Developed **Client PnL** dashboards using **Essbase**, **AWS**, and **Snowflake**, improving financial reporting accuracy for sales and **compliance stakeholders**.
+- <i class="fas fa-cogs"></i> Built **predictive segmentation** models on **ICAMS** data, resolving **18%** of **operational issues**, optimizing sales processes.
+- <i class="fas fa-users"></i> Collaborated with cross-functional teams to integrate **data pipelines**, **automating reporting** workflows for decision-making efficiency.
 
-### <i class="fas fa-chart-pie"></i> Kantar Group (Analytics Quotient) — Business Analyst
-#### Sep 2018 – Mar 2019 | Bengaluru, India
+&nbsp;
+
+## <i class="fas fa-chart-pie"></i> Kantar Group (Analytics Quotient) — Business Analyst
+### Sep 2018 – Mar 2019 | Bengaluru, India
 <div class="tech-stack">Tableau, SQL, Excel, Power BI, Python</div>
 
-  - <i class="fas fa-chart-line"></i> Created **3 interactive Tableau dashboards**, enhancing retail **sales insights** and **stakeholder communication** for strategic decision-making.
-  - <i class="fas fa-shield-alt"></i> Standardized **GDPR/CCPA-compliant** reports, achieving **0%** project failure rate through rigorous **data integrity** protocols.
-  - <i class="fas fa-search"></i> Conducted **risk assessments**, delivering data-driven recommendations to **optimize retail** analytics processes.
+- <i class="fas fa-chart-line"></i> Created **3 interactive Tableau dashboards**, enhancing retail **sales insights** and **stakeholder communication** for strategic decision-making.
+- <i class="fas fa-shield-alt"></i> Standardized **GDPR/CCPA-compliant** reports, achieving **0%** project failure rate through rigorous **data integrity** protocols.
+- <i class="fas fa-search"></i> Conducted **risk assessments**, delivering data-driven recommendations to **optimize retail** analytics processes.
 
-### <i class="fas fa-search-dollar"></i> Search2Hired Online Services — Business Analyst
-#### Apr 2015 – Aug 2018 | Bengaluru, India
+&nbsp;
+
+## <i class="fas fa-search-dollar"></i> Search2Hired Online Services — Business Analyst
+### Apr 2015 – Aug 2018 | Bengaluru, India
 <div class="tech-stack">SQL, Excel, Python, Tableau, Power Query</div>
 
-  - <i class="fas fa-file-excel"></i> Delivered **50+ quarterly dashboards** and reports with **0% error rate**, driving **95% client renewal rates** in e-commerce and finance sectors.
-  - <i class="fas fa-users"></i> Collaborated with **cross-functional** teams to develop **data-driven** sales tools, optimizing business processes and **customer insights**.
-  - <i class="fas fa-clock"></i> Automated reporting workflows using **Excel** and **SQL**, saving **20 hours** weekly for stakeholder teams.
+- <i class="fas fa-file-excel"></i> Delivered **50+ quarterly dashboards** and reports with **0% error rate**, driving **95% client renewal rates** in e-commerce and finance sectors.
+- <i class="fas fa-users"></i> Collaborated with **cross-functional** teams to develop **data-driven** sales tools, optimizing business processes and **customer insights**.
+- <i class="fas fa-clock"></i> Automated reporting workflows using **Excel** and **SQL**, saving **20 hours** weekly for stakeholder teams.
 
 ---
 
@@ -756,7 +748,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   content: '';
   position: absolute;
   width: 6px;
-  background-color: #3498db;
+  background-color: #159957; 
   top: 0;
   bottom: 0;
   left: 20px;
@@ -777,7 +769,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
   height: 40px;
   left: 0;
   background-color: white;
-  border: 4px solid #3498db;
+  border: 4px solid #159957;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -810,7 +802,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 }
 
 .badge {
-  background-color: #3498db;
+  background-color: #159957;
   color: white;
   padding: 5px 10px;
   border-radius: 4px;
@@ -836,7 +828,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 .quote {
   font-style: italic;
   color: #7f8c8d;
-  border-left: 3px solid #3498db;
+  border-left: 3px solid #159957;
   padding-left: 10px;
   margin-top: 15px;
 }
