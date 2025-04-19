@@ -111,14 +111,12 @@ Excel at designing **Dynamic Dashboards**,**ML/AI Model Development & Deployment
 
 At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering significant revenue growth and operational efficiencies. Certified in **Power BI, Tableau, Excel, SQL & Alteryx**, Equipped to elevate data-driven decision-making and commercial excellence.
 
-<ul>
-  <li><i class="fas fa-check-circle"></i> Developed <strong>35+ Power BI</strong> & <strong>Tableau</strong> dashboards, improving usage by <strong>15%</strong>, adopted by <strong>3,000+ stakeholders</strong> across Nomura & Cisco.</li>
-  <li><i class="fas fa-robot"></i> Optimized <strong>SQL queries</strong> on <strong>Snowflake</strong>, reducing analytics runtime by <strong>80%</strong>, from 5 minutes to 45 seconds, enhancing decision-making.</li>
-  <li><i class="fas fa-dollar-sign"></i> Drove <strong>$700K+</strong> in pipeline opportunities via <strong>ML-based customer segmentation</strong>, delivering <strong>78+ cross-sell</strong> insights at Cisco.</li>
-  <li><i class="fas fa-chart-line"></i> Delivered <strong>C-suite</strong> PowerPoint presentations, aligning <strong>market trends</strong> and sales insights for <strong>10%</strong> revenue growth across regions.</li>
-  <li><i class="fas fa-users"></i> Trained <strong>4,500+</strong> professionals globally, achieving <strong>70%+</strong> adoption of <strong>BI tools</strong>, boosting <strong>digital literacy</strong> and collaboration.</li>
-  <li><i class="fas fa-tachometer-alt"></i> Ensured <strong>0%</strong> error rate in <strong>automated reports</strong> and <strong>GDPR/CCPA</strong> compliance, implementing <strong>RBAC</strong> and data masking for <strong>100M+</strong> records.</li>
-</ul>
+- ✅ Developed **35+ Power BI** & **Tableau** dashboards, improving usage by **15%**, adopted by **3,000+ stakeholders** across Nomura & Cisco.
+- 🤖 Optimized **SQL queries** on **Snowflake**, reducing analytics runtime by **80%**, from 5 minutes to 45 seconds.
+- 💰 Drove **$700K+** in pipeline opportunities via **ML-based customer segmentation**.
+- 📈 Delivered **C-suite** presentations for **10%** revenue growth.
+- 👨‍🏫 Trained **4,500+** professionals, boosting **digital literacy**.
+- 🔒 Ensured **0%** error rate and **GDPR/CCPA** compliance for **100M+ records**.
 
 <div class="certifications">
   <span class="cert-badge">Microsoft Certified: Power BI Data Analyst Associate</span>
