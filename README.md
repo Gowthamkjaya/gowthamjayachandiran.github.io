@@ -262,349 +262,167 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 # 📊 My Portfolio
 
-<div class="portfolio-container">
-  <!-- Left Column - YouTube Tutorials -->
-  <div class="portfolio-column">
-    <div class="section-header" style="background-color: #159957;">
-      <h2>📹 YouTube Tutorials</h2>
-    </div>
-    <div class="content-area">
-      <!-- YouTube Video Entry Example -->
-      <div class="video-card">
-        <div class="video-thumbnail">
-          <img src="assets/images/excel_tutorial.jpg" alt="Excel - Tutorials" />
-          <div class="play-button">▶️</div>
-        </div>
-        <div class="video-info">
-          <h3>Excel Tutorials - Beginner to Intermediate</h3>
-          <p>Contains 4-hour detailed explanation of basic functions and formula</p>
-          <div class="video-stats">
-            <span>👁️ 1.2K views</span>
-            <span>⏱️ 04:15:24</span>
-          </div>
-          <a href="https://www.youtube.com/watch?v=j_IunrORQZ0&list=PLlEyMvUZ31GAJzVplMliIsoRsgoF90B-M" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
-        </div>
-      </div>
-      
-      <!-- Another YouTube Video Entry -->
-      <div class="video-card">
-        <div class="video-thumbnail">
-          <img src="assets/images/Tableau-tutorial.png" alt="Tableau Tutorial" />
-          <div class="play-button">▶️</div>
-        </div>
-        <div class="video-info">
-          <h3>Tableau - Beginner to Intermediate</h3>
-          <p>14-hour videos which contains how to get started with Tableau and all the way till building a report independently</p>
-          <div class="video-stats">
-            <span>👁️ 3.5K views</span>
-            <span>⏱️ 14:15:47</span>
-          </div>
-          <a href="https://www.youtube.com/watch?v=aS7NtoFXVg4&list=PLlEyMvUZ31GDBzJEQEiT4mwQ2HoEEMzK4" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
-        </div>
-      </div>
-      
-      <!-- Another YouTube Video Entry -->
-      <div class="video-card">
-        <div class="video-thumbnail">
-          <img src="assets/images/sql-tutorial.png" alt="SQL Tutorial" />
-          <div class="play-button">▶️</div>
-        </div>
-        <div class="video-info">
-          <h3>SQL Tutorial - Joins & Sub-Queries</h3>
-          <p>Contains 4-hour detailed explanation of MySQL JOINS and SUBQUERIES</p>
-          <div class="video-stats">
-            <span>👁️ 2.7K views</span>
-            <span>⏱️ 4:07:17</span>
-          </div>
-          <a href="https://www.youtube.com/watch?v=8P4bjjpTDJg&list=PLlEyMvUZ31GAwPLDcTQfjEtyuZjL-Dctx" style="background-color: #159957;">Watch Tutorial</a>
-        </div>
-      </div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
 
-      <!-- Another YouTube Video Entry -->
-      <div class="video-card">
-        <div class="video-thumbnail">
-          <img src="assets/images/alteryx_tutorial.jpg" alt="Alteryx Tutorial" />
-          <div class="play-button">▶️</div>
-        </div>
-        <div class="video-info">
-          <h3>Alteryx Tutorial - Beginner to Intermediate</h3>
-          <p>14-hour videos which contains how to get started with Tableau and all the way till building a report independently</p>
-          <div class="video-stats">
-            <span>👁️ 3.5K views</span>
-            <span>⏱️ 04:23:32</span>
-          </div>
-          <a href="https://www.youtube.com/watch?v=EH8ohIA2KHc" class="watch-button" style="background-color: #159957;">Watch Tutorial</a>
-        </div>
+<!-- Left Column - YouTube Tutorials -->
+<div style="flex: 1; min-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; background-color: #ffffff;">
+  <div style="padding: 15px 20px; background-color: #159957; color: white;">
+    <h2>📹 YouTube Tutorials</h2>
+  </div>
+  <div style="padding: 20px;">
+    <!-- YouTube Video Entry Example -->
+    <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="position: relative; overflow: hidden;">
+        <img src="assets/images/excel_tutorial.jpg" alt="Excel - Tutorials" style="width: 100%;" />
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
       </div>
-  
-  <!-- Right Column - External Links -->
-  <div class="portfolio-column">
-    <div class="section-header" style="background-color: #159957;">
-      <h2>🔗 External Projects</h2>
+      <div style="padding: 15px;">
+        <h3>Excel Tutorials - Beginner to Intermediate</h3>
+        <p>Contains 4-hour detailed explanation of basic functions and formula</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>👁️ 1.2K views</span>
+          <span>⏱️ 04:15:24</span>
+        </div>
+        <a href="https://www.youtube.com/watch?v=j_IunrORQZ0&list=PLlEyMvUZ31GAJzVplMliIsoRsgoF90B-M" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Watch Tutorial</a>
+      </div>
     </div>
-    <div class="content-area">
-      <!-- GitHub Project -->
-      <div class="project-card github">
-        <div class="project-icon">
-          <svg viewBox="0 0 24 24" width="40" height="40">
-            <path fill="#159957" d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
-          </svg>
-        </div>
-        <div class="project-info">
-          <h3>Tableau Descriptive & Predictive Dashboard</h3>
-          <p>Detailed breakdown of visuals representing both descriptive & predictive metrics on Sample Superstore dataset</p>
-          <div class="project-stats">
-            <span>⭐ 1000+ views</span>
-            <span>🔄 Built in 2019</span>
-          </div>
-          <a href="https://public.tableau.com/app/profile/gowtham.kumar.jayachandiran/viz/DescriptivePredictiveAnalysis-SuperstoreSales/TitleDB" class="project-button" style="background-color: #159957;">View Dashboard</a>
-        </div>
+    
+    <!-- Another YouTube Video Entry -->
+    <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="position: relative; overflow: hidden;">
+        <img src="assets/images/Tableau-tutorial.png" alt="Tableau Tutorial" style="width: 100%;" />
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
       </div>
-      
-      <!-- Streamlit App -->
-      <div class="project-card streamlit">
-        <div class="project-icon">
-          <svg viewBox="0 0 24 24" width="40" height="40">
-            <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
-          </svg>
+      <div style="padding: 15px;">
+        <h3>Tableau - Beginner to Intermediate</h3>
+        <p>14-hour videos which contains how to get started with Tableau and all the way till building a report independently</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>👁️ 3.5K views</span>
+          <span>⏱️ 14:15:47</span>
         </div>
-        <div class="project-info">
-          <h3>Streamlit Application</h3>
-          <p>Interactive data visualization web application built with Streamlit.</p>
-          <div class="project-stats">
-            <span>👁️ 2.8K views</span>
-            <span>🚀 Live Demo</span>
-          </div>
-          <a href="#" class="project-button" style="background-color: #159957;">Try Application</a>
-        </div>
+        <a href="https://www.youtube.com/watch?v=aS7NtoFXVg4&list=PLlEyMvUZ31GDBzJEQEiT4mwQ2HoEEMzK4" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Watch Tutorial</a>
       </div>
-      
-      <!-- Personal Website -->
-      <div class="project-card website">
-        <div class="project-icon">
-          <svg viewBox="0 0 24 24" width="40" height="40">
-            <path fill="#159957" d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm7.931 9h-2.764a14.67 14.67 0 0 0-.496-2.995c.513-.23 1.011-.496 1.487-.806a8.007 8.007 0 0 1 1.773 3.801zM12 4c.791 0 1.651.378 2.501 1.158.579.533 1.113 1.248 1.584 2.102-.468.092-.96.176-1.476.242C13.949 7.156 13.048 7 12 7s-1.949.156-2.61.5c-.511-.065-1.005-.15-1.476-.242.471-.854 1.005-1.569 1.584-2.102C10.349 4.378 11.21 4 12 4zm-3.509 1.193c-.24.212-.464.433-.671.661C7.39 6.33 7.015 6.839 6.674 7.4c-.254.424-.48.873-.674 1.325A13.64 13.64 0 0 1 4.069 11H4c-.298 0-.595-.013-.883-.039A7.963 7.963 0 0 1 6.889 5.21c.532.311 1.03.577 1.542.807.204.09.414.173.631.249a13.917 13.917 0 0 0-.571.927zM4.069 13h2.764c.081 1.036.229 2.039.493 2.995-.508.227-1.001.492-1.472.799A8.007 8.007 0 0 1 4.069 13zM12 20c-.79 0-1.644-.375-2.489-1.144-.581-.532-1.112-1.242-1.584-2.087.483-.095.96-.181 1.476-.246.66.347 1.562.501 2.597.501s1.938-.154 2.597-.501c.516.065 1.003.156 1.476.246-.472.845-1.003 1.555-1.584 2.087C13.644 19.625 12.79 20 12 20zm3.254-1.893c.477-.307.97-.572 1.478-.799.264-.956.412-1.959.493-2.995h2.764a8.007 8.007 0 0 1-1.773 3.799c-.471-.298-.964-.562-1.472-.788a11.81 11.81 0 0 0-.63-.249c.208-.294.403-.603.571-.926.169-.323.32-.666.456-1.022l-1.887.982zm4.671-8.046A7.963 7.963 0 0 1 20.883 11h-.014c-.298 0-.595.013-.883.039a14.118 14.118 0 0 0-.493-2.995c.513-.23 1.011-.496 1.487-.806z"/>
-          </svg>
-        </div>
-        <div class="project-info">
-          <h3>Power BI Headcount Dashboard</h3>
-          <p>Headcount dashboard containing all key metrics & KPI's about retention, attrition, etc.,</p>
-          <div class="project-stats">
-            <span>🛠️ Power BI Desktop, Power Query Editor</span>
-            <span>🔄 Built in 2021</span>
-          </div>
-          <a href="#" class="project-button" style="background-color: #159957;">Visit Website</a>
-        </div>
+    </div>
+    
+    <!-- Another YouTube Video Entry -->
+    <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="position: relative; overflow: hidden;">
+        <img src="assets/images/sql-tutorial.png" alt="SQL Tutorial" style="width: 100%;" />
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
       </div>
-      
-      <!-- Streamlit App -->
-      <div class="project-card streamlit">
-        <div class="project-icon">
-          <svg viewBox="0 0 24 24" width="40" height="40">
-            <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
-          </svg>
+      <div style="padding: 15px;">
+        <h3>SQL Tutorial - Joins & Sub-Queries</h3>
+        <p>Contains 4-hour detailed explanation of MySQL JOINS and SUBQUERIES</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>👁️ 2.7K views</span>
+          <span>⏱️ 4:07:17</span>
         </div>
-        <div class="project-info">
-          <h3>Streamlit Application</h3>
-          <p>Interactive data visualization web application built with Streamlit.</p>
-          <div class="project-stats">
-            <span>👁️ 2.8K views</span>
-            <span>🚀 Live Demo</span>
-          </div>
-          <a href="#" class="project-button" style="background-color: #159957;">Try Application</a>
-        </div>
+        <a href="https://www.youtube.com/watch?v=8P4bjjpTDJg&list=PLlEyMvUZ31GAwPLDcTQfjEtyuZjL-Dctx" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Watch Tutorial</a>
       </div>
+    </div>
+
+    <!-- Another YouTube Video Entry -->
+    <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="position: relative; overflow: hidden;">
+        <img src="assets/images/alteryx_tutorial.jpg" alt="Alteryx Tutorial" style="width: 100%;" />
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
+      </div>
+      <div style="padding: 15px;">
+        <h3>Alteryx Tutorial - Beginner to Intermediate</h3>
+        <p>14-hour videos which contains how to get started with Tableau and all the way till building a report independently</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>👁️ 3.5K views</span>
+          <span>⏱️ 04:23:32</span>
+        </div>
+        <a href="https://www.youtube.com/watch?v=EH8ohIA2KHc" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Watch Tutorial</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Right Column - External Links -->
+<div style="flex: 1; min-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; background-color: #ffffff;">
+  <div style="padding: 15px 20px; background-color: #159957; color: white;">
+    <h2>🔗 External Projects</h2>
+  </div>
+  <div style="padding: 20px;">
+    <!-- GitHub Project -->
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40">
+          <path fill="#159957" d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+        </svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Tableau Descriptive & Predictive Dashboard</h3>
+        <p>Detailed breakdown of visuals representing both descriptive & predictive metrics on Sample Superstore dataset</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>⭐ 1000+ views</span>
+          <span>🔄 Built in 2019</span>
+        </div>
+        <a href="https://public.tableau.com/app/profile/gowtham.kumar.jayachandiran/viz/DescriptivePredictiveAnalysis-SuperstoreSales/TitleDB" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">View Dashboard</a>
+      </div>
+    </div>
+    
+    <!-- Streamlit App -->
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40">
+          <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
+        </svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Streamlit Application</h3>
+        <p>Interactive data visualization web application built with Streamlit.</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>👁️ 2.8K views</span>
+          <span>🚀 Live Demo</span>
+        </div>
+        <a href="#" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Try Application</a>
+      </div>
+    </div>
+    
+    <!-- Personal Website -->
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40">
+          <path fill="#159957" d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm7.931 9h-2.764a14.67 14.67 0 0 0-.496-2.995c.513-.23 1.011-.496 1.487-.806a8.007 8.007 0 0 1 1.773 3.801zM12 4c.791 0 1.651.378 2.501 1.158.579.533 1.113 1.248 1.584 2.102-.468.092-.96.176-1.476.242C13.949 7.156 13.048 7 12 7s-1.949.156-2.61.5c-.511-.065-1.005-.15-1.476-.242.471-.854 1.005-1.569 1.584-2.102C10.349 4.378 11.21 4 12 4zm-3.509 1.193c-.24.212-.464.433-.671.661C7.39 6.33 7.015 6.839 6.674 7.4c-.254.424-.48.873-.674 1.325A13.64 13.64 0 0 1 4.069 11H4c-.298 0-.595-.013-.883-.039A7.963 7.963 0 0 1 6.889 5.21c.532.311 1.03.577 1.542.807.204.09.414.173.631.249a13.917 13.917 0 0 0-.571.927zM4.069 13h2.764c.081 1.036.229 2.039.493 2.995-.508.227-1.001.492-1.472.799A8.007 8.007 0 0 1 4.069 13zM12 20c-.79 0-1.644-.375-2.489-1.144-.581-.532-1.112-1.242-1.584-2.087.483-.095.96-.181 1.476-.246.66.347 1.562.501 2.597.501s1.938-.154 2.597-.501c.516.065 1.003.156 1.476.246-.472.845-1.003 1.555-1.584 2.087C13.644 19.625 12.79 20 12 20zm3.254-1.893c.477-.307.97-.572 1.478-.799.264-.956.412-1.959.493-2.995h2.764a8.007 8.007 0 0 1-1.773 3.799c-.471-.298-.964-.562-1.472-.788a11.81 11.81 0 0 0-.63-.249c.208-.294.403-.603.571-.926.169-.323.32-.666.456-1.022l-1.887.982zm4.671-8.046A7.963 7.963 0 0 1 20.883 11h-.014c-.298 0-.595.013-.883.039a14.118 14.118 0 0 0-.493-2.995c.513-.23 1.011-.496 1.487-.806z"/>
+        </svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Power BI Headcount Dashboard</h3>
+        <p>Headcount dashboard containing all key metrics & KPI's about retention, attrition, etc.,</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Power BI Desktop, Power Query Editor</span>
+          <span>🔄 Built in 2021</span>
+        </div>
+        <a href="#" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Visit Website</a>
+      </div>
+    </div>
+    
+    <!-- Another Streamlit App -->
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40">
+          <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
+        </svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Streamlit Application</h3>
+        <p>Interactive data visualization web application built with Streamlit.</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>👁️ 2.8K views</span>
+          <span>🚀 Live Demo</span>
+        </div>
+        <a href="#" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Try Application</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 </div>
-</div>
+
 <style>
-/* General Layout */
-.portfolio-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  margin: 20px 0;
-}
-
-.portfolio-column {
-  flex: 1;
-  min-width: 300px;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  overflow: hidden;
-  background-color: #ffffff;
-}
-
-.section-header {
-  padding: 15px 20px;
-  color: white;
-}
-
-.section-header h2 {
-  margin: 0;
-  font-size: 1.5rem;
-  font-weight: 600;
-}
-
-.content-area {
-  padding: 20px;
-}
-
-/* YouTube Videos Section */
-.video-card {
-  margin-bottom: 25px;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.video-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-}
-
-.video-thumbnail {
-  position: relative;
-  overflow: hidden;
-}
-
-.video-thumbnail img {
-  width: 100%;
-  transition: transform 0.5s ease;
-}
-
-.video-card:hover .video-thumbnail img {
-  transform: scale(1.05);
-}
-
-.play-button {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 2rem;
-  opacity: 0.8;
-  transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-.video-card:hover .play-button {
-  opacity: 1;
-  transform: translate(-50%, -50%) scale(1.1);
-}
-
-.video-info {
-  padding: 15px;
-}
-
-.video-info h3 {
-  margin-top: 0;
-  margin-bottom: 8px;
-  color: #333;
-}
-
-.video-info p {
-  color: #666;
-  margin-bottom: 15px;
-}
-
-.video-stats {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 15px;
-  color: #777;
-  font-size: 0.9rem;
-}
-
-.watch-button {
-  display: inline-block;
-  padding: 8px 16px;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: 500;
-  transition: opacity 0.3s ease;
-}
-
-.watch-button:hover {
-  opacity: 0.9;
-}
-
-/* External Links Section */
-.project-card {
-  display: flex;
-  margin-bottom: 25px;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-}
-
-.project-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 15px;
-  background-color: #f8f9fa;
-}
-
-.project-info {
-  flex: 1;
-  padding: 15px;
-}
-
-.project-info h3 {
-  margin-top: 0;
-  margin-bottom: 8px;
-  color: #333;
-}
-
-.project-info p {
-  color: #666;
-  margin-bottom: 15px;
-}
-
-.project-stats {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 15px;
-  color: #777;
-  font-size: 0.9rem;
-}
-
-.project-button {
-  display: inline-block;
-  padding: 8px 16px;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: 500;
-  transition: opacity 0.3s ease;
-}
-
-.project-button:hover {
-  opacity: 0.9;
-}
-
-.load-more {
-  text-align: center;
-  margin-top: 10px;
-}
-
-.load-more a {
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.load-more a:hover {
-  text-decoration: underline;
-}
-
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .portfolio-container {
