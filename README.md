@@ -266,14 +266,14 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 <!-- Left Column - YouTube Tutorials -->
 <div style="flex: 1; min-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; background-color: #ffffff;">
-  <div style="padding: 15px 20px; background-color: #ffffff; color: white;">
-    <h2>📹 YouTube Tutorials</h2>
+  <div style="padding: 15px 20px; background-color: #159957; color: white;">
+    <h2 style="color: white;">📹 YouTube Tutorials</h2>
   </div>
   <div style="padding: 20px;">
     <!-- YouTube Video Entry Example -->
     <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="position: relative; overflow: hidden;">
-        <img src="assets/images/excel_tutorial.jpg" alt="Excel - Tutorials" style="width: 100%;" />
+        <img src="assets/images/excel.jpg" alt="Excel - Tutorials" style="width: 100%;" />
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
       </div>
       <div style="padding: 15px;">
@@ -290,7 +290,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
     <!-- Another YouTube Video Entry -->
     <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="position: relative; overflow: hidden;">
-        <img src="assets/images/Tableau-tutorial.png" alt="Tableau Tutorial" style="width: 100%;" />
+        <img src="assets/images/Tableau.jpg" alt="Tableau Tutorial" style="width: 100%;" />
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
       </div>
       <div style="padding: 15px;">
@@ -307,7 +307,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
     <!-- Another YouTube Video Entry -->
     <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="position: relative; overflow: hidden;">
-        <img src="assets/images/sql-tutorial.png" alt="SQL Tutorial" style="width: 100%;" />
+        <img src="assets/images/sql.jpg" alt="SQL Tutorial" style="width: 100%;" />
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
       </div>
       <div style="padding: 15px;">
@@ -324,7 +324,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
     <!-- Another YouTube Video Entry -->
     <div style="margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="position: relative; overflow: hidden;">
-        <img src="assets/images/alteryx_tutorial.jpg" alt="Alteryx Tutorial" style="width: 100%;" />
+        <img src="assets/images/alteryx.jpg" alt="Alteryx Tutorial" style="width: 100%;" />
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem;">▶️</div>
       </div>
       <div style="padding: 15px;">
@@ -342,8 +342,8 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
 
 <!-- Right Column - External Links -->
 <div style="flex: 1; min-width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; background-color: #ffffff;">
-  <div style="padding: 15px 20px; background-color: #ffffff; color: white;">
-    <h2>🔗 External Projects</h2>
+  <div style="padding: 15px 20px; background-color: #159957; color: white;">
+    <h2 style="color: white;">🔗 External Projects</h2>
   </div>
   <div style="padding: 20px;">
     <!-- GitHub Project -->
