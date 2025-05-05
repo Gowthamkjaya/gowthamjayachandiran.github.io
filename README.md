@@ -346,7 +346,7 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
     <h2 style="color: white;">🔗 External Projects</h2>
   </div>
   <div style="padding: 20px;">
-    <!-- GitHub Project -->
+
     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
         <svg viewBox="0 0 24 24" width="40" height="40">
@@ -355,68 +355,230 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
       </div>
       <div style="flex: 1; padding: 15px;">
         <h3>Tableau Descriptive & Predictive Dashboard</h3>
-        <p>Detailed breakdown of visuals representing both descriptive & predictive metrics on Sample Superstore dataset</p>
+        <p>Detailed breakdown of visuals representing both descriptive & predictive metrics on Sample Superstore dataset[cite: 59]. Link: <a href="https://public.tableau.com/app/profile/gowtham.kumar.jayachandiran/viz/DescriptivePredictiveAnalysis-SuperstoreSales/TitleDB">https://public.tableau.com/app/profile/gowtham.kumar.jayachandiran/viz/DescriptivePredictiveAnalysis-SuperstoreSales/TitleDB</a></p>
         <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
           <span>⭐ 1000+ views</span>
           <span>🔄 Built in 2019</span>
         </div>
-        <a href="https://public.tableau.com/app/profile/gowtham.kumar.jayachandiran/viz/DescriptivePredictiveAnalysis-SuperstoreSales/TitleDB" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">View Dashboard</a>
-      </div>
+        </div>
     </div>
-    
-    <!-- Streamlit App -->
+
     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
-        <svg viewBox="0 0 24 24" width="40" height="40">
-          <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
-        </svg>
+         <svg viewBox="0 0 24 24" width="40" height="40">
+           <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
+         </svg>
       </div>
       <div style="flex: 1; padding: 15px;">
         <h3>Streamlit Application</h3>
-        <p>Interactive data visualization web application built with Streamlit.</p>
+        <p>Interactive data visualization web application built with Streamlit[cite: 65].</p>
         <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
-          <span>👁️ 2.8K views</span>
-          <span>🚀 Live Demo</span>
+          <span>👁️ Placeholder views</span>
+          <span>🚀 Placeholder Status</span>
         </div>
-        <a href="#" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Try Application</a>
-      </div>
+         </div>
     </div>
-    
-    <!-- Personal Website -->
+
     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
         <svg viewBox="0 0 24 24" width="40" height="40">
-          <path fill="#159957" d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm7.931 9h-2.764a14.67 14.67 0 0 0-.496-2.995c.513-.23 1.011-.496 1.487-.806a8.007 8.007 0 0 1 1.773 3.801zM12 4c.791 0 1.651.378 2.501 1.158.579.533 1.113 1.248 1.584 2.102-.468.092-.96.176-1.476.242C13.949 7.156 13.048 7 12 7s-1.949.156-2.61.5c-.511-.065-1.005-.15-1.476-.242.471-.854 1.005-1.569 1.584-2.102C10.349 4.378 11.21 4 12 4zm-3.509 1.193c-.24.212-.464.433-.671.661C7.39 6.33 7.015 6.839 6.674 7.4c-.254.424-.48.873-.674 1.325A13.64 13.64 0 0 1 4.069 11H4c-.298 0-.595-.013-.883-.039A7.963 7.963 0 0 1 6.889 5.21c.532.311 1.03.577 1.542.807.204.09.414.173.631.249a13.917 13.917 0 0 0-.571.927zM4.069 13h2.764c.081 1.036.229 2.039.493 2.995-.508.227-1.001.492-1.472.799A8.007 8.007 0 0 1 4.069 13zM12 20c-.79 0-1.644-.375-2.489-1.144-.581-.532-1.112-1.242-1.584-2.087.483-.095.96-.181 1.476-.246.66.347 1.562.501 2.597.501s1.938-.154 2.597-.501c.516.065 1.003.156 1.476.246-.472.845-1.003 1.555-1.584 2.087C13.644 19.625 12.79 20 12 20zm3.254-1.893c.477-.307.97-.572 1.478-.799.264-.956.412-1.959.493-2.995h2.764a8.007 8.007 0 0 1-1.773 3.799c-.471-.298-.964-.562-1.472-.788a11.81 11.81 0 0 0-.63-.249c.208-.294.403-.603.571-.926.169-.323.32-.666.456-1.022l-1.887.982zm4.671-8.046A7.963 7.963 0 0 1 20.883 11h-.014c-.298 0-.595.013-.883.039a14.118 14.118 0 0 0-.493-2.995c.513-.23 1.011-.496 1.487-.806z"/>
-        </svg>
+           <path fill="#159957" d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm7.931 9h-2.764a14.67 14.67 0 0 0-.496-2.995c.513-.23 1.011-.496 1.487-.806a8.007 8.007 0 0 1 1.773 3.801zM12 4c.791 0 1.651.378 2.501 1.158.579.533 1.113 1.248 1.584 2.102-.468.092-.96.176-1.476.242C13.949 7.156 13.048 7 12 7s-1.949.156-2.61.5c-.511-.065-1.005-.15-1.476-.242.471-.854 1.005-1.569 1.584-2.102C10.349 4.378 11.21 4 12 4zm-3.509 1.193c-.24.212-.464.433-.671.661C7.39 6.33 7.015 6.839 6.674 7.4c-.254.424-.48.873-.674 1.325A13.64 13.64 0 0 1 4.069 11H4c-.298 0-.595-.013-.883-.039A7.963 7.963 0 0 1 6.889 5.21c.532.311 1.03.577 1.542.807.204.09.414.173.631.249a13.917 13.917 0 0 0-.571.927zM4.069 13h2.764c.081 1.036.229 2.039.493 2.995-.508.227-1.001.492-1.472.799A8.007 8.007 0 0 1 4.069 13zM12 20c-.79 0-1.644-.375-2.489-1.144-.581-.532-1.112-1.242-1.584-2.087.483-.095.96-.181 1.476-.246.66.347 1.562.501 2.597.501s1.938-.154 2.597-.501c.516.065 1.003.156 1.476.246-.472.845-1.003 1.555-1.584 2.087C13.644 19.625 12.79 20 12 20zm3.254-1.893c.477-.307.97-.572 1.478-.799.264-.956.412-1.959.493-2.995h2.764a8.007 8.007 0 0 1-1.773 3.799c-.471-.298-.964-.562-1.472-.788a11.81 11.81 0 0 0-.63-.249c.208-.294.403-.603.571-.926.169-.323.32-.666.456-1.022l-1.887.982zm4.671-8.046A7.963 7.963 0 0 1 20.883 11h-.014c-.298 0-.595.013-.883.039a14.118 14.118 0 0 0-.493-2.995c.513-.23 1.011-.496 1.487-.806z"/>
+         </svg>
       </div>
       <div style="flex: 1; padding: 15px;">
         <h3>Power BI Headcount Dashboard</h3>
-        <p>Headcount dashboard containing all key metrics & KPI's about retention, attrition, etc.,</p>
+        <p>Headcount dashboard containing all key metrics & KPI's about retention, attrition, etc.[cite: 72].</p>
         <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
           <span>🛠️ Power BI Desktop, Power Query Editor</span>
           <span>🔄 Built in 2021</span>
         </div>
-        <a href="#" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Visit Website</a>
-      </div>
+        </div>
     </div>
-    
-    <!-- Another Streamlit App -->
+
     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
-        <svg viewBox="0 0 24 24" width="40" height="40">
-          <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
-        </svg>
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"/></svg>
       </div>
       <div style="flex: 1; padding: 15px;">
-        <h3>Streamlit Application</h3>
-        <p>Interactive data visualization web application built with Streamlit.</p>
+        <h3>Bookings Query GPT (Cisco)</h3>
+        <p>Developed an AI chatbot for querying Snowflake financial data using LangChain, GPT-40, Python, and FAISS. Deployed to 320+ execs, reducing time-to-insight by 60%[cite: 135].</p>
         <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
-          <span>👁️ 2.8K views</span>
-          <span>🚀 Live Demo</span>
+          <span>🛠️ LangChain, GPT-40, Python, FAISS, Snowflake</span>
+          <span>🔄 Built 2023-Present</span>
         </div>
-        <a href="#" style="display: inline-block; padding: 8px 16px; background-color: #159957; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">Try Application</a>
-      </div>
+         </div>
     </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+         <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M19.4 7.3c-.4-.8-1-1.4-1.8-1.8-.8-.4-1.7-.6-2.6-.6H9c-.9 0-1.8.2-2.6.6-.8.4-1.5 1-1.8 1.8-.4.8-.6 1.7-.6 2.6v6c0 .9.2 1.8.6 2.6.4.8 1 1.4 1.8 1.8.8.4 1.7.6 2.6.6h6c.9 0 1.8-.2 2.6-.6.8-.4 1.5-1 1.8-1.8.4-.8.6-1.7.6-2.6V9.9c0-.9-.2-1.8-.6-2.6zm-1.8 10.1c-.3.6-.7.9-1.2 1.2-.6.3-1.2.4-1.8.4H9c-.6 0-1.2-.1-1.8-.4s-1-.7-1.2-1.2c-.3-.6-.4-1.2-.4-1.8v-6c0-.6.1-1.2.4-1.8.3-.6.7-.9 1.2-1.2.6-.3 1.2-.4 1.8-.4h6c.6 0 1.2.1 1.8.4s1 .7 1.2 1.2c.3.6.4 1.2.4 1.8v6c0 .6-.1 1.2-.4 1.8zM12 15.5c-1.9 0-3.5-1.6-3.5-3.5s1.6-3.5 3.5-3.5 3.5 1.6 3.5 3.5-1.6 3.5-3.5 3.5zm0-5c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5 1.5-.7 1.5-1.5-.7-1.5-1.5-1.5z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>AI Metadata Intelligence Tool (Cisco)</h3>
+        <p>Built an AI tool for 1,100+ Tableau dashboards using LangChain, Alteryx, FAISS, and Python, improving discoverability by 11% for 1,400+ users. Deployed via Docker CI/CD[cite: 136].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ LangChain, Alteryx, FAISS, Python, Docker, Tableau</span>
+          <span>🔄 Built 2023-Present</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M20 6h-4V4c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H4c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zM10 4h4v2h-4V4zm10 15H4V8h16v11zM8 15h2v-2H8v2zm4 0h2v-2h-2v2z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Telemetry Analytics Pipeline (Cisco)</h3>
+        <p>Engineered a pipeline for 180K+ unstructured files using Regex, NLP, Tableau, and Scikit-learn. Integrated with WebEx, generating $700K+ in pipeline revenue[cite: 137].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Python (Regex, NLP), Scikit-learn, Tableau, WebEx</span>
+          <span>🔄 Built 2023-Present</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+         <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14H5v-4h7v4zm0-5H5V8h7v4zm7 5h-6V8h6v9z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>CN Bookings Insights Dashboard (Cisco)</h3>
+        <p>Designed and scaled the CN Bookings Insights dashboard with 230M+ Snowflake records. Grew user base from 1,800 to 3,000+ and enabled 170+ self-serve subscriptions[cite: 139].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Snowflake, Tableau/Power BI (Implied)</span>
+          <span>🔄 Built 2023-Present</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+         <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14H5v-4h7v4zm0-5H5V8h7v4zm7 5h-6V8h6v9z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Trading Dashboards (Nomura)</h3>
+        <p>Led a team of 7 analysts to deliver 35+ trading dashboards using SQL, Snowflake, and Tableau, boosting trading efficiency by 15%[cite: 141].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ SQL, Snowflake, Tableau</span>
+          <span>🔄 Built 2021-2023</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+         <svg viewBox="0 0 24 24" width="40" height="40">
+           <path fill="#159957" d="M16.53 9.78c.6.079.62.737.47.737H7.05c-.627 0-.66-.665-.473-.736.495-.181 1.016-.279 1.558-.279h6.84c.548 0 1.075.1 1.556.278zM3.6 12.12s-.48.982 1.182 1.07h14.735c1.172-.088 1.087-1.059 1.087-1.059a7.37 7.37 0 0 0-.361-1.382c-.32-.868-1.044-1.428-1.875-1.428H6.082c-.831 0-1.556.56-1.875 1.428a7.417 7.417 0 0 0-.607 2.371zm1.188 2.708s-.453.934 1.155 1.02h12.564c1.145-.086 1.064-1.02 1.064-1.02a7.05 7.05 0 0 0-.361-1.315c-.319-.826-1.042-1.358-1.881-1.358H7.03c-.839 0-1.561.532-1.88 1.358a7.1 7.1 0 0 0-.361 1.315z"/>
+         </svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Streamlit Frontend for Denodo (Nomura)</h3>
+        <p>Built Streamlit frontend for Denodo with multi-threaded APIs and ARIMA-based time series insights, enabling 3,400+ users to self-serve analytics[cite: 142].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Streamlit, Python (APIs, ARIMA), Denodo</span>
+          <span>🔄 Built 2021-2023</span>
+        </div>
+         </div>
+    </div>
+
+     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-5.5-8C6.5 9.58 8.08 8 10 8s3.5 1.58 3.5 3.5S11.92 15 10 15 6.5 13.42 6.5 12zm9 0c0-1.92 1.58-3.5 3.5-3.5s3.5 1.58 3.5 3.5-1.58 3.5-3.5 3.5-3.5-1.58-3.5-3.5z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Automated L&D Feedback Sentiment Analysis (Nomura)</h3>
+        <p>Automated sentiment analysis for 4,000+ L&D feedback entries with NLP, integrating results into Power BI to improve training program effectiveness[cite: 143].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Python (NLP), Power BI</span>
+          <span>🔄 Built 2021-2023</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 15c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm6.03-7.9l-1.41-1.41 1.06-1.06c.2-.2.2-.51 0-.71s-.51-.2-.71 0l-1.06 1.06-1.41-1.41c-.2-.2-.51-.2-.71 0s-.2.51 0 .71l1.41 1.41-1.06 1.06c-.2.2-.2.51 0 .71.1.1.23.15.35.15s.26-.05.35-.15l1.06-1.06 1.41 1.41c.1.1.23.15.35.15s.26-.05.35-.15c.2-.2.2-.51 0-.71zM5.97 12.9l1.41 1.41-1.06 1.06c-.2.2-.2.51 0 .71.1.1.23.15.35.15s.26-.05.35-.15l1.06-1.06 1.41 1.41c.1.1.23.15.35.15s.26-.05.35-.15c.2-.2.2-.51 0-.71l-1.41-1.41 1.06-1.06c.2-.2.2-.51 0-.71s-.51-.2-.71 0l-1.06 1.06-1.41-1.41c-.2-.2-.51-.2-.71 0s-.2.51 0 .71z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Churn Prediction Model (State Street)</h3>
+        <p>Developed a churn prediction model using XGBoost (AUC: 0.81) with CRM data. Reduced churn by 12% and embedded insights in Tableau for 500+ users[cite: 145].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Python (XGBoost), CRM Data, Tableau</span>
+          <span>🔄 Built 2019-2021</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M12 5.99L19.53 19H4.47L12 5.99M12 2L1 21h22L12 2zm1 14h-2v2h2v-2zm0-6h-2v4h2v-4z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Incident Detection Model (State Street)</h3>
+        <p>Built an incident detection model using NLP and spaCy to flag compliance risks from internal data, with visualizations in Tableau[cite: 146].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Python (NLP, spaCy), Tableau</span>
+          <span>🔄 Built 2019-2021</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14H5v-4h7v4zm0-5H5V8h7v4zm7 5h-6V8h6v9z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Client P&L, Risk, and Procurement Dashboards (State Street)</h3>
+        <p>Created 35+ dashboards using Tableau, Power BI, and SQL. Saved $1.2M annually and cut reporting time by 40%[cite: 148].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Tableau, Power BI, SQL</span>
+          <span>🔄 Built 2019-2021</span>
+        </div>
+         </div>
+    </div>
+
+     <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M13 3H6v18h4v-6h3c3.31 0 6-2.69 6-6s-2.69-6-6-6zm-.2 8H8.8V7H12c1.1 0 2 .9 2 2s-.9 2-1.8 2zM3 3h1v18H3V3zm17 0h1v18h-1V3z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Real-time Transaction & Portfolio Dashboards (State Street)</h3>
+        <p>Designed & Developed real-time dashboards for transaction settlement and portfolio tracking, raising client satisfaction by 15% through improved visibility.</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Tableau/Power BI (Implied)</span>
+          <span>🔄 Built 2019-2021</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 14H5v-4h7v4zm0-5H5V8h7v4zm7 5h-6V8h6v9z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Retail Analytics Dashboards (Kantar)</h3>
+        <p>Created 3 Tableau dashboards for retail analytics, improving supply chain insights by 8%[cite: 150].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Tableau</span>
+          <span>🔄 Built 2018-2019</span>
+        </div>
+         </div>
+    </div>
+
+    <div style="display: flex; margin-bottom: 25px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <div style="display: flex; align-items: center; justify-content: center; padding: 15px; background-color: #f8f9fa;">
+        <svg viewBox="0 0 24 24" width="40" height="40"><path fill="#159957" d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zM6 20V4h7v5h5v11H6zM8 13h8v2H8v-2zm0 4h8v2H8v-2zm-3-4h2v2H5v-2z"/></svg>
+      </div>
+      <div style="flex: 1; padding: 15px;">
+        <h3>Quarterly Dashboards (Search2Hired)</h3>
+        <p>Delivered 50+ dashboards with 0% error rate, driving 95% renewal rates for clients. Automated reporting pipelines with Power Query, saving 20 hours weekly[cite: 153, 154].</p>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; color: #777; font-size: 0.9rem;">
+          <span>🛠️ Excel/Power BI (Implied), Power Query</span>
+          <span>🔄 Built 2015-2018</span>
+        </div>
+         </div>
+    </div>
+
   </div>
 </div>
 
@@ -737,6 +899,61 @@ At Nomura and Cisco, I spearheaded **BI and AI/ML initiatives**, delivering sign
     </div>
     <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
   </a>
+
+  <a href="https://www.credly.com/go/97YDMC4W8eFgQukWGE0jfw" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
+    <div class="cert-details">
+      <h3>Data Science @Cisco Generative AI</h3>
+      <p>Blue Belt 2025</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
+
+  <a href="https://www.credly.com/go/lN9rdCPXtwfo42BV0zHqoA" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
+    <div class="cert-details">
+      <h3>Data Science @Cisco Generative AI</h3>
+      <p>Green Belt 2025</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
+
+  <a href="https://www.credly.com/go/lN9rdCPXtwfo42BV0zHqoA" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
+    <div class="cert-details">
+      <h3>Cisco Certified Data Scientist</h3>
+      <p>Blue Belt 2025</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
+
+  <a href="https://www.credly.com/go/lN9rdCPXtwfo42BV0zHqoA" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
+    <div class="cert-details">
+      <h3>Cisco Certified Data Scientist</h3>
+      <p>Green Belt 2025</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
+
+  <a href="https://www.credly.com/go/iyU4kUMaWMtCe8QxtB8rlw" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
+    <div class="cert-details">
+      <h3>IBM Certified - Deep Learning With Keras</h3>
+      <p>Neural Networks, RNN, CNN with Keras</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/GowthamKumarJayachandiran-3792/A4MKUHV7?sharingId=AFDDE9D2DD36A57" target="_blank" class="certification-card">
+    <div class="cert-icon"><i class="fas fa-file-excel"></i></div>
+    <div class="cert-details">
+      <h3>Microsoft Certified - Azure</h3>
+      <p>Azure AI Services</p>
+    </div>
+    <div class="cert-arrow"><i class="fas fa-external-link-alt"></i></div>
+  </a>
+  
 </div>
 
 <style>
